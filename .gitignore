@@ -1,0 +1,33 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor/IDE
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Build artifacts (if any scripts added later)
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+target/
+build/
+dist/
+
+# Large binary artifacts (track separately or via LFS)
+# Keeping .pdf and .docx as they are research outputs

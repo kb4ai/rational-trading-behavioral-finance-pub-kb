@@ -1,0 +1,18 @@
+What kind of biases take place when people rebalancing SPOT portfolio are thinking about price levels they entered and are biased by this, instead of focusing on "now" and "future" most optimal operation?
+After all if on spot best at "now" according to data we have level to put sell order is e.g. 123 AAABBB then I should set it regardless of the price I entered, because I optimize for now and future and past is past, what I have now in my portfolio I use. I guess it's sunk cost fallacy, what are other biases taking play here in typical "traders" (especially retail) reasoning , emotional, cognitive? And how are they manifested in "trading" community, media, influencers, etc, how to spot those patterns, and avoid them, and stay rational, objective, autistic absolute, mathematical, in approach?
+In analysis present what we know about different cognitive types, how majority neurotype spread wrong incorrect biases in community, books, media, articles, systems? How minority neurotypes like super high IQ , absolute autistic and others can help together with mathematics, symbolic systems (like Mathematica Computer Algebra System, etc) or at least their way or modelling and reasoning at world, and how still such super rational actor should consider other traders potential biases and how institutional, algorithmic, ML/AI, traders can use them by checking e.g. when most people entered e.g. on liquidity heatmaps, trading volume measurements at different price levels and utilize this information to exploit other trading actors cognitive biases flaws and consider in their autistic absolute, mathematical logical correctness, that considers other actors potential cognitive and emotional biases in their modelling , analysis and reasoning, utilize.
+
+Some clarification questions I was asked to prompt and answers I gave:
+
+
+Q1: Cognitive and emotional biases common in retail trading (e.g., sunk cost fallacy, loss aversion, anchoring, etc.)
+A1.: Yes, cognitive and emotional biases common in trading, and biases in general which later manifestation we see in approach to trading by humans, that perfectly logical actors would not do and that perfectly logical actors should only consider as biases or some of other market players while maintaining their out pure clear unbiased reasoning. (ofc we know there is no perfect unbias, there is a bias, e.g. if someone want to take bigger opportunities by price of bigger risks etc, but as long as those are design choices and choices that one is aware of we consider them preferences not biases)
+
+Q2: How these biases are reflected in trading communities, media, and influencers
+A2: here we care less about specific influencers etc, it is more examples or language, patterns, flaws to watch out for and how they may manifest or be hidden.
+
+Q3: The role of different cognitive types (e.g., neurotypical vs. high-IQ/autistic profiles) in shaping or countering these biases
+A3: Here it is more about making article whose audience is minority neurotypes, like Absolute Autistic thinking, Great Mathematicians and Algorithmicians, Polymath, etc so we ignore normal conventions how people look and operate in flawed ways with staff and assume we start with blank cognitive abosoulte high iq rational player slate  that can also levarage powerfull tooling (like Quants basically)
+
+Q4: How rational traders and institutions use market data (e.g., heatmaps, volume profiles) to exploit these biases
+A4: This was meant to be list of example tools that maybe at disposal of rational players, and ofc rational players have in their game theoretical model , theory of mind of other less rational players and consider their biases in modelling reasoning etc.
