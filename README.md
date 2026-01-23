@@ -28,8 +28,8 @@
 
 **The Neurodivergent Advantage:**
 
-* Autistic individuals show 65-80% reduced susceptibility to framing effects (De Martino et al., 2008)
-* High-IQ investors achieve 4.9% higher annual returns through reduced disposition effect and superior market timing (Grinblatt et al., 2012)
+* Autistic individuals show 65-80% reduced susceptibility to framing effects ([De Martino et al., 2008](https://doi.org/10.1523/JNEUROSCI.2895-08.2008))
+* High-IQ investors achieve 4.9% higher annual returns through reduced disposition effect and superior market timing ([Grinblatt et al., 2012](https://doi.org/10.1016/j.jfineco.2011.05.016))
 * Algorithms exhibit virtually zero disposition effect vs. human traders' 15-20pp gap
 
 **Key Insight:** Awareness alone is insufficient. Knowing about biases does not prevent them. Only systems that mechanically override human intuition can achieve rational outcomes.

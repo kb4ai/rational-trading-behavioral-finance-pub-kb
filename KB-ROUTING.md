@@ -25,8 +25,8 @@
 
 | Finding | Metric | Source |
 |---------|--------|--------|
-| Reduced framing effects | 65-80% smaller preference reversals | De Martino et al. 2008 |
-| IQ-performance link | 4.9% higher annual returns (top decile) | Grinblatt et al. 2012 |
+| Reduced framing effects | 65-80% smaller preference reversals | [De Martino et al. 2008](https://doi.org/10.1523/JNEUROSCI.2895-08.2008) |
+| IQ-performance link | 4.9% higher annual returns (top decile) | [Grinblatt et al. 2012](https://doi.org/10.1016/j.jfineco.2011.05.016) |
 | Algorithm advantage | PGR ≈ PLR (no disposition effect) | Norges Bank 2025 |
 | Ultimatum Game rationality | 85-90% accept positive-EV offers | [perplexity](research-artifacts/perplexity-deep-research.md) |
 

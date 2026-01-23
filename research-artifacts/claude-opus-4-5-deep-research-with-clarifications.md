@@ -2,7 +2,7 @@
 
 # Cognitive biases in trading: a systematic catalog for quantitative minds
 
-**The rational trader's primary adversary is not the market but their own psychology.** Research demonstrates that cognitive biases systematically reduce investment returns by **1.31-1.56 percentage points annually**, with individual traders selling winning positions 50% more readily than losing ones (Odean, 1998). The most insidious finding: high intelligence provides minimal protection against most biases and may actually increase vulnerability through the "bias blind spot"—the tendency for cognitively sophisticated individuals to recognize biases in others while missing them in themselves (West, Meserve & Stanovich, 2012). This catalog provides a formal mapping of documented biases, their manifestations in market discourse, differential susceptibility across cognitive profiles, how institutional actors exploit these patterns, and frameworks for maintaining rational decision-making.
+**The rational trader's primary adversary is not the market but their own psychology.** Research demonstrates that cognitive biases systematically reduce investment returns by **1.31-1.56 percentage points annually**, with individual traders selling winning positions 50% more readily than losing ones ([Odean, 1998](https://doi.org/10.1111/0022-1082.00072)). The most insidious finding: high intelligence provides minimal protection against most biases and may actually increase vulnerability through the "bias blind spot"—the tendency for cognitively sophisticated individuals to recognize biases in others while missing them in themselves (West, Meserve & Stanovich, 2012). This catalog provides a formal mapping of documented biases, their manifestations in market discourse, differential susceptibility across cognitive profiles, how institutional actors exploit these patterns, and frameworks for maintaining rational decision-making.
 
 ---
 
@@ -18,7 +18,7 @@ The empirical foundation is robust. Odean's analysis of 10,000 household account
 
 The **sunk cost fallacy** compounds these effects. Guenzel (Wharton, 2020) found that in corporate contexts, an interquartile increase in sunk costs reduced subsequent divestiture rates by **8-9%**. The psychological mechanism involves loss aversion—Kahneman & Tversky established that losses are felt approximately **twice as intensely** as equivalent gains. Abandoning a losing position requires accepting this psychologically painful loss realization.
 
-**Mental accounting** (Thaler, 1985, 1999) explains why traders track individual positions against purchase prices rather than evaluating portfolio-level performance. Money is treated as non-fungible based on subjective categorization. This creates artificial reference points: the "house money effect" (treating prior gains differently from principal), round-number anchoring (52-week highs, psychological price levels), and separate evaluation of positions that should be considered jointly.
+**Mental accounting** ([Thaler, 1985](https://doi.org/10.1287/mksc.4.3.199), 1999) explains why traders track individual positions against purchase prices rather than evaluating portfolio-level performance. Money is treated as non-fungible based on subjective categorization. This creates artificial reference points: the "house money effect" (treating prior gains differently from principal), round-number anchoring (52-week highs, psychological price levels), and separate evaluation of positions that should be considered jointly.
 
 ### Information processing distortions
 
@@ -28,7 +28,7 @@ The **sunk cost fallacy** compounds these effects. Guenzel (Wharton, 2020) found
 
 **Hindsight bias**—the "I knew it all along" effect documented by Fischhoff (1975)—distorts learning from experience. A study of 85 investment bankers found **100% exhibited hindsight bias**, leading to underestimation of volatility and overconfidence in predictive abilities. If traders believe they predicted past events, they overestimate their ability to predict future ones.
 
-The **status quo bias** (Samuelson & Zeckhauser, 1988) manifests as failure to rebalance portfolios despite asset allocation drift. Driven by loss aversion, endowment effect, and regret aversion, this bias causes portfolios to become misaligned with stated objectives. Research shows many investors hold securities simply because they are familiar, with false perceptions that transaction costs or taxes are prohibitive.
+The **status quo bias** ([Samuelson & Zeckhauser, 1988](https://doi.org/10.1007/BF00055564)) manifests as failure to rebalance portfolios despite asset allocation drift. Driven by loss aversion, endowment effect, and regret aversion, this bias causes portfolios to become misaligned with stated objectives. Research shows many investors hold securities simply because they are familiar, with false perceptions that transaction costs or taxes are prohibitive.
 
 **Overconfidence** produces measurable damage. Barber & Odean (2001) found that men trade **45% more frequently** than women and earn risk-adjusted returns **1.4 percentage points lower**. Single men trade **67% more** than single women with returns **2.3% lower** annually. The mechanism: overestimating the accuracy of private information and one's stock-picking ability.
 
@@ -62,7 +62,7 @@ Financial media perpetuates hindsight bias through ex-post narrative constructio
 
 ### The autism-systemizing advantage
 
-Research reveals that autistic individuals and those with high-systemizing traits demonstrate **"enhanced rationality"** in financial decision-making. De Martino et al. (2008, Journal of Neuroscience) found that autistic individuals show significantly **reduced susceptibility to framing effects**—the tendency for neurotypical adults to reverse preferences based on whether options are presented as gains or losses.
+Research reveals that autistic individuals and those with high-systemizing traits demonstrate **"enhanced rationality"** in financial decision-making. [De Martino et al. (2008)](https://doi.org/10.1523/JNEUROSCI.2895-08.2008) found that autistic individuals show significantly **reduced susceptibility to framing effects**—the tendency for neurotypical adults to reverse preferences based on whether options are presented as gains or losses.
 
 Farmer, Baron-Cohen & Skylark (2017, Psychological Science) demonstrated that people with autism spectrum conditions make **more consistent decisions** when evaluating products with decoy options. Preferences between items in a pair frequently switch for neurotypical individuals when a third irrelevant option is added, but this "context sensitivity" is reduced in autism.
 
