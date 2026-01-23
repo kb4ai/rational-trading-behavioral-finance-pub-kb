@@ -6,11 +6,13 @@
 
 | Bias | Key Finding | Source | External Reference |
 |------|-------------|--------|-------------------|
-| Disposition Effect | PGR 14.8% vs PLR 9.8% - 50% more likely to sell winners | [claude-opus](research-artifacts/claude-opus-4-5-deep-research.md) | [Wikipedia](https://en.wikipedia.org/wiki/Disposition_effect) |
+| Disposition Effect | PGR 14.8% vs PLR 9.8% - 50% more likely to sell winners | [claude-opus](research-artifacts/claude-opus-4-5-deep-research.md), [Odean 1998](core-research/behavioral-biases-multi-paper-synthesis.md#odean-1998--the-disposition-effect-sell-winners-hold-losers) | [Wikipedia](https://en.wikipedia.org/wiki/Disposition_effect) |
 | [Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion) | λ ≈ 2.25 (losses felt 2.25x as painful as gains) | [perplexity](research-artifacts/perplexity-deep-research.md) | [Wikipedia](https://en.wikipedia.org/wiki/Loss_aversion) |
 | [Anchoring](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) | 20-40% valuation shift from initial price exposure | [perplexity](research-artifacts/perplexity-deep-research.md) | [Wikipedia](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) |
 | [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias) | 85% disposed to accepting confirming opinions | [claude-opus-clarif](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) | [Wikipedia](https://en.wikipedia.org/wiki/Confirmation_bias) |
 | [Sunk Cost Fallacy](https://yourlogicalfallacyis.com/sunk-cost) | 124% longer holding periods for losers vs winners | [perplexity](research-artifacts/perplexity-deep-research.md) | [YLFI](https://yourlogicalfallacyis.com/sunk-cost) |
+| [Mental Accounting](https://en.wikipedia.org/wiki/Mental_accounting) | Money mentally labeled reduces fungibility | [Thaler 1985](core-research/behavioral-biases-multi-paper-synthesis.md#thaler-1985-mental-accountingmoney-gets-labels) | [Wikipedia](https://en.wikipedia.org/wiki/Mental_accounting) |
+| [Status Quo Bias](https://en.wikipedia.org/wiki/Status_quo_bias) | Disproportionate preference for default/current state | [Samuelson & Zeckhauser 1988](core-research/behavioral-biases-multi-paper-synthesis.md#samuelson--zeckhauser-1988-status-quo-biasdoing-nothing-is-a-powerful-option) | [Wikipedia](https://en.wikipedia.org/wiki/Status_quo_bias) |
 
 ### Debiasing Frameworks
 
@@ -25,8 +27,8 @@
 
 | Finding | Metric | Source | Details |
 |---------|--------|--------|---------|
-| Reduced framing effects | 65-80% smaller preference reversals | [De Martino et al. 2008](https://doi.org/10.1523/JNEUROSCI.2895-08.2008) | [Detailed explanation](core-research/de-martino-2008-framing-effects-autism-explained.md) |
-| IQ-performance link | 4.9% higher annual returns (top decile) | [Grinblatt et al. 2012](https://doi.org/10.1016/j.jfineco.2011.05.016) | |
+| Reduced framing effects | 65-80% smaller preference reversals | [De Martino et al. 2008](https://doi.org/10.1523/JNEUROSCI.2895-08.2008) | [Detailed explanation](core-research/de-martino-2008-framing-effects-autism-explained.md), [Multi-paper synthesis](core-research/behavioral-biases-multi-paper-synthesis.md) |
+| IQ-performance link | 4.9% higher annual returns (top decile) | [Grinblatt et al. 2012](https://doi.org/10.1016/j.jfineco.2011.05.016) | [Multi-paper synthesis](core-research/behavioral-biases-multi-paper-synthesis.md) |
 | Algorithm advantage | PGR ≈ PLR (no disposition effect) | Norges Bank 2025 | |
 | Ultimatum Game rationality | 85-90% accept positive-EV offers | [perplexity](research-artifacts/perplexity-deep-research.md) | |
 

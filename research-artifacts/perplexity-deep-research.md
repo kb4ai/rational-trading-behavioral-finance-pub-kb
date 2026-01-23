@@ -1,5 +1,7 @@
 <https://www.perplexity.ai/search/what-kind-of-biases-take-place-0Jc6dB85SKe3Ik.2Dd16zw>
 
+> **See also:** [Multi-paper synthesis](../core-research/behavioral-biases-multi-paper-synthesis.md) — detailed analysis of De Martino, Grinblatt, Odean, Barber & Odean, Thaler, Samuelson & Zeckhauser, and Yafai papers referenced here.
+
 combined answers to Original prompt + follow up prompt with clarification questions:
 
 

@@ -1,5 +1,7 @@
 <https://claude.ai/public/artifacts/15c8b687-d805-4ec6-9ba5-cef68979385a>
 
+> **See also:** [Multi-paper synthesis](../core-research/behavioral-biases-multi-paper-synthesis.md) — detailed analysis of De Martino, Grinblatt, Odean, Barber & Odean, Thaler, Samuelson & Zeckhauser, and Yafai papers referenced here.
+
 # Cognitive biases in trading: a systematic catalog for quantitative minds
 
 **The rational trader's primary adversary is not the market but their own psychology.** Research demonstrates that cognitive biases systematically reduce investment returns by **1.31-1.56 percentage points annually**, with individual traders selling winning positions 50% more readily than losing ones ([Odean, 1998](https://doi.org/10.1111/0022-1082.00072)). The most insidious finding: high intelligence provides minimal protection against most biases and may actually increase vulnerability through the "bias blind spot"—the tendency for cognitively sophisticated individuals to recognize biases in others while missing them in themselves (West, Meserve & Stanovich, 2012). This catalog provides a formal mapping of documented biases, their manifestations in market discourse, differential susceptibility across cognitive profiles, how institutional actors exploit these patterns, and frameworks for maintaining rational decision-making.

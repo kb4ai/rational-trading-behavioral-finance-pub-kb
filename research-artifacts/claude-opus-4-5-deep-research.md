@@ -1,5 +1,7 @@
 <https://claude.ai/public/artifacts/d0e899e7-9b1a-4c9a-a708-080f160c2970>
 
+> **See also:** [Multi-paper synthesis](../core-research/behavioral-biases-multi-paper-synthesis.md) — detailed analysis of De Martino, Grinblatt, Odean, Barber & Odean, Thaler, Samuelson & Zeckhauser, and Yafai papers referenced here.
+
 # The cognitive architecture of trading failure and how to overcome it
 
 Your entry price is irrelevant to your stock's future returns—yet this number dominates most traders' decisions, creating a cascade of cognitive errors that **cost retail investors approximately 3.7 percentage points annually** according to research by Barber and Odean. The academic evidence is overwhelming: humans systematically make irrational trading decisions because we anchor to arbitrary reference points, feel losses 2-2.5 times more intensely than equivalent gains, and follow social herds rather than mathematical logic. However, these same biases create predictable behavior that sophisticated traders exploit through volume profile analysis, liquidity mapping, and order flow intelligence—while offering a counter-strategy for those who understand the game.
