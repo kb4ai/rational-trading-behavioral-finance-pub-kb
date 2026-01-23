@@ -32,6 +32,7 @@
 * High-IQ investors achieve 4.9% higher annual returns through reduced disposition effect and superior market timing ([Grinblatt et al., 2012](https://doi.org/10.1016/j.jfineco.2011.05.016))
 * Algorithms exhibit virtually zero disposition effect vs. human traders' 15-20pp gap
 * See also: [Multi-paper synthesis](core-research/behavioral-biases-multi-paper-synthesis.md) covering 7 foundational studies (De Martino, Grinblatt, Odean, Barber & Odean, Thaler, Samuelson & Zeckhauser, Yafai)
+* **[Full Bibliography](BIBLIOGRAPHY.md)** — Central reference for all 30+ academic papers cited in this knowledge base with DOI links
 
 **Key Insight:** Awareness alone is insufficient. Knowing about biases does not prevent them. Only systems that mechanically override human intuition can achieve rational outcomes.
 
