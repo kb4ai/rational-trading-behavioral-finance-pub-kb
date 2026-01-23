@@ -23,12 +23,12 @@
 
 ### Neurodivergent Advantage Evidence
 
-| Finding | Metric | Source |
-|---------|--------|--------|
-| Reduced framing effects | 65-80% smaller preference reversals | [De Martino et al. 2008](https://doi.org/10.1523/JNEUROSCI.2895-08.2008) |
-| IQ-performance link | 4.9% higher annual returns (top decile) | [Grinblatt et al. 2012](https://doi.org/10.1016/j.jfineco.2011.05.016) |
-| Algorithm advantage | PGR ≈ PLR (no disposition effect) | Norges Bank 2025 |
-| Ultimatum Game rationality | 85-90% accept positive-EV offers | [perplexity](research-artifacts/perplexity-deep-research.md) |
+| Finding | Metric | Source | Details |
+|---------|--------|--------|---------|
+| Reduced framing effects | 65-80% smaller preference reversals | [De Martino et al. 2008](https://doi.org/10.1523/JNEUROSCI.2895-08.2008) | [Detailed explanation](core-research/de-martino-2008-framing-effects-autism-explained.md) |
+| IQ-performance link | 4.9% higher annual returns (top decile) | [Grinblatt et al. 2012](https://doi.org/10.1016/j.jfineco.2011.05.016) | |
+| Algorithm advantage | PGR ≈ PLR (no disposition effect) | Norges Bank 2025 | |
+| Ultimatum Game rationality | 85-90% accept positive-EV offers | [perplexity](research-artifacts/perplexity-deep-research.md) | |
 
 ### Institutional Exploitation Tools
 
@@ -39,6 +39,18 @@
 | VPIN | Measure order flow toxicity | [perplexity](research-artifacts/perplexity-deep-research.md) |
 | Footprint Charts | Reveal buy/sell imbalances | [claude-opus-clarif](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) |
 | Social Sentiment NLP | Quantify retail bullishness extremes | [perplexity](research-artifacts/perplexity-deep-research.md) |
+
+## Core Research Documents
+
+### Synthesized Analyses
+
+1. **[de-martino-2008-framing-effects-autism-explained.md](core-research/de-martino-2008-framing-effects-autism-explained.md)**
+   - Focus: Detailed breakdown of De Martino et al. (2008) framing effects study
+   - Key sections: Methodology, actual effect sizes (46% behavioral vs 65-80% physiological), SCR analysis
+   - Best for: Understanding exactly what the "reduced framing effects" claim means
+   - Source: ChatGPT 5.2 research conversation
+
+---
 
 ## Research Artifacts Index
 
@@ -134,6 +146,7 @@
 | claude-opus-4-5-deep-research-with-clarifications.md | 2025-01-22 | Anthropic | Claude Opus 4.5 |
 | perplexity-deep-research.md | 2025-01-22 | Perplexity | Deep Research |
 | chatgpt-5.2-deep-research.md | 2025-01-22 | OpenAI | ChatGPT 5.2 |
+| de-martino-2008-framing-effects-autism-explained.md | 2025-01-23 | OpenAI | ChatGPT 5.2 |
 
 ## Future Development
 
