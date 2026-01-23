@@ -31,6 +31,7 @@
 * Autistic individuals show 65-80% reduced susceptibility to framing effects ([De Martino et al., 2008](https://doi.org/10.1523/JNEUROSCI.2895-08.2008)) — [detailed explanation](core-research/de-martino-2008-framing-effects-autism-explained.md)
 * High-IQ investors achieve 4.9% higher annual returns through reduced disposition effect and superior market timing ([Grinblatt et al., 2012](https://doi.org/10.1016/j.jfineco.2011.05.016))
 * Algorithms exhibit virtually zero disposition effect vs. human traders' 15-20pp gap
+* See also: [Multi-paper synthesis](core-research/behavioral-biases-multi-paper-synthesis.md) covering 7 foundational studies (De Martino, Grinblatt, Odean, Barber & Odean, Thaler, Samuelson & Zeckhauser, Yafai)
 
 **Key Insight:** Awareness alone is insufficient. Knowing about biases does not prevent them. Only systems that mechanically override human intuition can achieve rational outcomes.
 
@@ -42,6 +43,8 @@ rational-trading-behavioral-finance-pub-kb/
 ├── KB-ROUTING.md                # Navigation & cross-references
 ├── CLAUDE.md                    # AI assistant instructions
 ├── core-research/               # Synthesized key findings
+│   ├── de-martino-2008-framing-effects-autism-explained.md
+│   └── behavioral-biases-multi-paper-synthesis.md
 ├── debiasing-frameworks/        # Mathematical solutions
 ├── market-microstructure/       # Institutional exploitation patterns
 ├── research-artifacts/          # Original AI research outputs
@@ -62,6 +65,7 @@ rational-trading-behavioral-finance-pub-kb/
 | Claude | Opus 4.5 | Quantitative framework for rational exploitation | [claude-opus-4-5-deep-research-with-clarifications.md](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) |
 | Perplexity | Deep Research | Neurodivergent advantage, institutional exploitation | [perplexity-deep-research.md](research-artifacts/perplexity-deep-research.md) |
 | ChatGPT | 5.2 Deep Research | Cognitive/emotional biases in retail trading | [chatgpt-5.2-deep-research.md](research-artifacts/chatgpt-5.2-deep-research.md) |
+| ChatGPT | 5.2 | Multi-paper synthesis: 7 foundational behavioral bias studies | [behavioral-biases-multi-paper-synthesis.md](core-research/behavioral-biases-multi-paper-synthesis.md) |
 
 ## Key Concepts
 

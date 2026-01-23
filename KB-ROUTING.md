@@ -50,6 +50,13 @@
    - Best for: Understanding exactly what the "reduced framing effects" claim means
    - Source: ChatGPT 5.2 research conversation
 
+2. **[behavioral-biases-multi-paper-synthesis.md](core-research/behavioral-biases-multi-paper-synthesis.md)**
+   - Focus: Comprehensive overview of 7 foundational papers on framing, disposition effect, mental accounting
+   - Papers covered: De Martino 2008, Grinblatt 2012, Odean 1998, Barber & Odean 2000, Thaler 1985, Samuelson & Zeckhauser 1988, Yafai 2014
+   - Key sections: Framing effects correction (46% vs 65-80%), disposition effect mechanics, IQ-trading link, status quo bias
+   - Best for: Understanding the interconnected family of cognitive biases affecting trading decisions
+   - Source: ChatGPT 5.2 research conversation
+
 ---
 
 ## Research Artifacts Index
@@ -147,6 +154,7 @@
 | perplexity-deep-research.md | 2025-01-22 | Perplexity | Deep Research |
 | chatgpt-5.2-deep-research.md | 2025-01-22 | OpenAI | ChatGPT 5.2 |
 | de-martino-2008-framing-effects-autism-explained.md | 2025-01-23 | OpenAI | ChatGPT 5.2 |
+| behavioral-biases-multi-paper-synthesis.md | 2025-01-23 | OpenAI | ChatGPT 5.2 |
 
 ## Future Development
 
