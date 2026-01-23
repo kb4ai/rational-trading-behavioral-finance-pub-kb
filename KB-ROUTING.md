@@ -42,6 +42,12 @@
 | Footprint Charts | Reveal buy/sell imbalances | [claude-opus-clarif](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) |
 | Social Sentiment NLP | Quantify retail bullishness extremes | [perplexity](research-artifacts/perplexity-deep-research.md) |
 
+## Bibliography
+
+**[BIBLIOGRAPHY.md](BIBLIOGRAPHY.md)** — Central reference for all academic papers cited in this knowledge base, including DOI links, full citations, and cross-reference index showing where each paper is discussed.
+
+---
+
 ## Core Research Documents
 
 ### Synthesized Analyses

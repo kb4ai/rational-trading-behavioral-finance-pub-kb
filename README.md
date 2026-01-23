@@ -41,6 +41,7 @@
 rational-trading-behavioral-finance-pub-kb/
 ├── README.md                    # This file
 ├── KB-ROUTING.md                # Navigation & cross-references
+├── BIBLIOGRAPHY.md              # Central academic paper references
 ├── CLAUDE.md                    # AI assistant instructions
 ├── core-research/               # Synthesized key findings
 │   ├── de-martino-2008-framing-effects-autism-explained.md
