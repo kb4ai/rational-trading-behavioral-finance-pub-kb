@@ -10,13 +10,13 @@
 
 1. **Disposition Effect** - Selling winners too early, holding losers too long. Costs ~4-6% annually. Measured by PGR/PLR ratio (14.8% vs 9.8% in Odean's study).
 
-2. **Anchoring/Reference Dependence** - Entry price contaminating forward-looking decisions. The purchase price is mathematically irrelevant to optimal future action.
+2. **[Anchoring](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias))/Reference Dependence** - Entry price contaminating forward-looking decisions. The purchase price is mathematically irrelevant to optimal future action.
 
-3. **Loss Aversion** - Losses felt ~2.25x more intensely than equivalent gains. Creates asymmetric risk preferences that violate stochastic dominance.
+3. **[Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion)** - Losses felt ~2.25x more intensely than equivalent gains. Creates asymmetric risk preferences that violate stochastic dominance.
 
-4. **Sunk Cost Fallacy** - Continuing to hold (or add to) losing positions because of resources already committed. Entry price is sunk cost with zero information content.
+4. **[Sunk Cost Fallacy](https://yourlogicalfallacyis.com/sunk-cost)** - Continuing to hold (or add to) losing positions because of resources already committed. Entry price is sunk cost with zero information content.
 
-5. **Confirmation Bias** - 85% of investors disposed to accepting confirming opinions. Creates echo chambers where flawed theses go unchallenged.
+5. **[Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)** - 85% of investors disposed to accepting confirming opinions. Creates echo chambers where flawed theses go unchallenged.
 
 **The Debiasing Solutions:**
 
@@ -90,7 +90,7 @@ Behavioral biases function as wealth transfer mechanisms from neurotypical retai
 * "Waiting to get back to even" - anchoring + sunk cost
 * "Diamond hands" / "Paper hands" - identity-linked bias
 * "Averaging down" - commitment escalation
-* "It has to come back" - mean reversion fallacy
+* "It has to come back" - [mean reversion fallacy](https://yourlogicalfallacyis.com/the-gamblers-fallacy)
 
 ## Cross-References
 
@@ -101,6 +101,27 @@ Behavioral biases function as wealth transfer mechanisms from neurotypical retai
 ## Status
 
 **WIP** - Core research complete, synthesis documents pending development.
+
+## External Resources
+
+### Logical Fallacies & Cognitive Biases
+
+These reference sites provide comprehensive catalogs of logical fallacies and cognitive biases—many directly applicable to trading discourse and market narratives:
+
+* **[Your Logical Fallacy Is](https://yourlogicalfallacyis.com/)** — Visual poster-style reference for common logical fallacies. Particularly relevant: [sunk cost](https://yourlogicalfallacyis.com/sunk-cost), [appeal to authority](https://yourlogicalfallacyis.com/appeal-to-authority), [anecdotal](https://yourlogicalfallacyis.com/anecdotal), [the gambler's fallacy](https://yourlogicalfallacyis.com/the-gamblers-fallacy)
+* **[List of Fallacies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_fallacies)** — Comprehensive taxonomy of formal and informal logical fallacies
+* **[Cognitive Biases (Wikipedia)](https://en.wikipedia.org/wiki/Cognitive_bias)** — Overview and categorization of systematic cognitive biases; see also the [List of Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) for exhaustive catalog
+
+### Key Fallacy-Bias Mappings for Trading
+
+| Trading Pattern | Related Fallacy/Bias | Reference |
+|-----------------|---------------------|-----------|
+| "It has to come back" | [Gambler's Fallacy](https://yourlogicalfallacyis.com/the-gamblers-fallacy) | Independent events treated as dependent |
+| "I've held this long, can't sell now" | [Sunk Cost Fallacy](https://yourlogicalfallacyis.com/sunk-cost) | Past costs affecting future decisions |
+| "This guru predicted the last crash" | [Appeal to Authority](https://yourlogicalfallacyis.com/appeal-to-authority) | Expert opinion ≠ truth |
+| "My friend made 10x on crypto" | [Anecdotal Evidence](https://yourlogicalfallacyis.com/anecdotal) | Survivorship-biased samples |
+| "Markets fell because of [news]" | [Post Hoc](https://yourlogicalfallacyis.com/false-cause) | Correlation ≠ causation |
+| "Either HODL or you're weak" | [False Dilemma](https://yourlogicalfallacyis.com/black-or-white) | Excluding rational middle ground |
 
 ---
 

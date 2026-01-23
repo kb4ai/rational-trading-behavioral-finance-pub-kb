@@ -4,13 +4,13 @@
 
 ### Bias Taxonomy
 
-| Bias | Key Finding | Source |
-|------|-------------|--------|
-| Disposition Effect | PGR 14.8% vs PLR 9.8% - 50% more likely to sell winners | [claude-opus](research-artifacts/claude-opus-4-5-deep-research.md) |
-| Loss Aversion | λ ≈ 2.25 (losses felt 2.25x as painful as gains) | [perplexity](research-artifacts/perplexity-deep-research.md) |
-| Anchoring | 20-40% valuation shift from initial price exposure | [perplexity](research-artifacts/perplexity-deep-research.md) |
-| Confirmation Bias | 85% disposed to accepting confirming opinions | [claude-opus-clarif](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) |
-| Sunk Cost | 124% longer holding periods for losers vs winners | [perplexity](research-artifacts/perplexity-deep-research.md) |
+| Bias | Key Finding | Source | External Reference |
+|------|-------------|--------|-------------------|
+| Disposition Effect | PGR 14.8% vs PLR 9.8% - 50% more likely to sell winners | [claude-opus](research-artifacts/claude-opus-4-5-deep-research.md) | [Wikipedia](https://en.wikipedia.org/wiki/Disposition_effect) |
+| [Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion) | λ ≈ 2.25 (losses felt 2.25x as painful as gains) | [perplexity](research-artifacts/perplexity-deep-research.md) | [Wikipedia](https://en.wikipedia.org/wiki/Loss_aversion) |
+| [Anchoring](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) | 20-40% valuation shift from initial price exposure | [perplexity](research-artifacts/perplexity-deep-research.md) | [Wikipedia](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) |
+| [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias) | 85% disposed to accepting confirming opinions | [claude-opus-clarif](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) | [Wikipedia](https://en.wikipedia.org/wiki/Confirmation_bias) |
+| [Sunk Cost Fallacy](https://yourlogicalfallacyis.com/sunk-cost) | 124% longer holding periods for losers vs winners | [perplexity](research-artifacts/perplexity-deep-research.md) | [YLFI](https://yourlogicalfallacyis.com/sunk-cost) |
 
 ### Debiasing Frameworks
 
@@ -70,6 +70,32 @@
 * [prompt-shorter.md](research-artifacts/prompts/prompt-shorter.md) - Core research question
 * [prompt-shorter-with-clarificatoin-questions.md](research-artifacts/prompts/prompt-shorter-with-clarificatoin-questions.md) - With Q&A clarifications
 
+## Logical Fallacy Resources
+
+### External Reference Sites
+
+| Resource | Description | Best Use |
+|----------|-------------|----------|
+| [Your Logical Fallacy Is](https://yourlogicalfallacyis.com/) | Visual poster-style fallacy reference | Quick identification, sharing |
+| [List of Fallacies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_fallacies) | Comprehensive taxonomy | Formal categorization |
+| [Cognitive Bias (Wikipedia)](https://en.wikipedia.org/wiki/Cognitive_bias) | Bias overview and links | Deep research |
+| [List of Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) | Exhaustive bias catalog | Completeness |
+
+### Trading-Relevant Fallacies
+
+| Fallacy | Trading Manifestation | Link |
+|---------|----------------------|------|
+| [Sunk Cost](https://yourlogicalfallacyis.com/sunk-cost) | "Can't sell—I've held too long" | Classic disposition effect driver |
+| [Gambler's Fallacy](https://yourlogicalfallacyis.com/the-gamblers-fallacy) | "It has to revert to mean" | Independent events ≠ dependent |
+| [Appeal to Authority](https://yourlogicalfallacyis.com/appeal-to-authority) | "This guru predicted 2008" | Expert != always correct |
+| [Anecdotal](https://yourlogicalfallacyis.com/anecdotal) | "My friend 10x'd on memes" | Survivorship bias in stories |
+| [False Cause (Post Hoc)](https://yourlogicalfallacyis.com/false-cause) | "Markets fell because of X" | Correlation ≠ causation |
+| [Black-or-White](https://yourlogicalfallacyis.com/black-or-white) | "HODL or you're paper hands" | False dichotomy |
+| [Bandwagon](https://yourlogicalfallacyis.com/bandwagon) | "Everyone is buying this" | Herding behavior |
+| [Burden of Proof](https://yourlogicalfallacyis.com/burden-of-proof) | "Prove it won't moon" | Shifting proof requirements |
+
+---
+
 ## Cross-KB Navigation
 
 ### Related Knowledge Bases
@@ -115,6 +141,7 @@
 
 * [ ] `core-research/cognitive-architecture-of-trading-failure.md` - Unified bias taxonomy
 * [ ] `core-research/taxonomy-of-behavioral-biases.md` - Formal categorization
+* [ ] `core-research/logical-fallacies-in-trading-discourse.md` - Mapping classical fallacies to market narratives
 * [ ] `debiasing-frameworks/kelly-criterion-position-sizing.md` - Implementation guide
 * [ ] `debiasing-frameworks/systematic-rebalancing-rules.md` - Calendar + threshold approaches
 * [ ] `market-microstructure/institutional-exploitation-patterns.md` - VPIN, volume profile analysis
@@ -126,3 +153,5 @@
 * Comparison of robo-advisor vs manual rebalancing outcomes
 * Neurodiversity-specific trading platform design
 * Real-time bias detection systems
+* Logical fallacy analysis in financial media narratives (post-hoc, appeal to authority)
+* Formal logic training as debiasing intervention
