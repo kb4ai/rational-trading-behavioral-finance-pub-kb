@@ -40,6 +40,30 @@ Complete citations with DOI links for papers directly analyzed in this repositor
 | **Sims (2003)** | Sims CA. Implications of Rational Inattention. *J. Monetary Economics*, 50(3), 665-690. | [10.1016/S0304-3932(03)00029-1](https://doi.org/10.1016/S0304-3932(03)00029-1) |
 | **Kőszegi & Rabin (2006)** | Kőszegi B, Rabin M. A Model of Reference-Dependent Preferences. *QJE*, 121(4), 1133-1165. | [10.1093/qje/121.4.1133](https://doi.org/10.1093/qje/121.4.1133) |
 
+### Cognitive Science Parallels
+
+| Citation | Full Reference | DOI |
+|----------|----------------|-----|
+| **Evans & Stanovich (2013)** | Evans JSTB, Stanovich KE. Dual-Process Theories of Higher Cognition: Advancing the Debate. *Perspectives on Psychological Science*, 8(3), 223-241. | [10.1177/1745691612460685](https://doi.org/10.1177/1745691612460685) |
+| **Evans (2008)** | Evans JSTB. Dual-Processing Accounts of Reasoning, Judgment, and Social Cognition. *Annual Review of Psychology*, 59, 255-278. | [10.1146/annurev.psych.59.103006.093629](https://doi.org/10.1146/annurev.psych.59.103006.093629) |
+| **Stanovich (2011)** | Stanovich KE. *Rationality and the Reflective Mind*. Oxford University Press. | ISBN 9780195341140 |
+| **Simon (1955)** | Simon HA. A Behavioral Model of Rational Choice. *Quarterly Journal of Economics*, 69(1), 99-118. | [10.2307/1884852](https://doi.org/10.2307/1884852) |
+| **Simon (1956)** | Simon HA. Rational Choice and the Structure of the Environment. *Psychological Review*, 63(2), 129-138. | [10.1037/h0042769](https://doi.org/10.1037/h0042769) |
+| **Gigerenzer & Todd (1999)** | Gigerenzer G, Todd PM, ABC Research Group. *Simple Heuristics That Make Us Smart*. Oxford University Press. | ISBN 9780195143812 |
+| **Gigerenzer (2008)** | Gigerenzer G. Why Heuristics Work. *Perspectives on Psychological Science*, 3(1), 20-29. | [10.1111/j.1745-6916.2008.00058.x](https://doi.org/10.1111/j.1745-6916.2008.00058.x) |
+| **DeMiguel, Garlappi & Uppal (2009)** | DeMiguel V, Garlappi L, Uppal R. Optimal Versus Naive Diversification: How Inefficient Is the 1/N Portfolio Strategy? *Review of Financial Studies*, 22(5), 1915-1953. | [10.1093/rfs/hhm075](https://doi.org/10.1093/rfs/hhm075) |
+| **Miller (1956)** | Miller GA. The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information. *Psychological Review*, 63(2), 81-97. | [10.1037/h0043158](https://doi.org/10.1037/h0043158) |
+| **Sweller (1988)** | Sweller J. Cognitive Load During Problem Solving: Effects on Learning. *Cognitive Science*, 12(2), 257-285. | [10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4) |
+| **Shamosh & Gray (2008)** | Shamosh NA, Gray JR. Delay Discounting and Intelligence: A Meta-Analysis. *Intelligence*, 36(4), 289-305. | [10.1016/j.intell.2007.09.004](https://doi.org/10.1016/j.intell.2007.09.004) |
+| **Kahneman (1973)** | Kahneman D. *Attention and Effort*. Prentice-Hall. | — |
+| **Trope & Liberman (2010)** | Trope Y, Liberman N. Construal-Level Theory of Psychological Distance. *Psychological Review*, 117(2), 440-463. | [10.1037/a0018963](https://doi.org/10.1037/a0018963) |
+| **Bartlett (1932)** | Bartlett FC. *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press. | — |
+| **Zelizer (1994)** | Zelizer VA. *The Social Meaning of Money*. Basic Books / Princeton University Press. | ISBN 9780691044590 |
+| **Lakoff & Johnson (1980)** | Lakoff G, Johnson M. *Metaphors We Live By*. University of Chicago Press. | — |
+| **Lakoff & Johnson (1999)** | Lakoff G, Johnson M. *Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought*. Basic Books. | — |
+| **Jostmann, Lakens & Schubert (2009)** | Jostmann NB, Lakens D, Schubert TW. Weight as an Embodiment of Importance. *Psychological Science*, 20(9), 1169-1174. | [10.1111/j.1467-9280.2009.02426.x](https://doi.org/10.1111/j.1467-9280.2009.02426.x) |
+| **Barsalou (2008)** | Barsalou LW. Grounded Cognition. *Annual Review of Psychology*, 59, 617-645. | [10.1146/annurev.psych.59.103006.093629](https://doi.org/10.1146/annurev.psych.59.103006.093629) |
+
 ## Foundational Theory Papers
 
 Landmark papers that form the theoretical foundation. DOIs to be added.
@@ -134,8 +158,22 @@ Where each primary paper is discussed:
 | Rozenkrantz et al. (2021) | `core-research/fungibility-asset-transformation-rational-framework.md` |
 | Hohfeld (1917) | `core-research/fungibility-asset-transformation-rational-framework.md` |
 | Shefrin & Thaler (1988) | `core-research/fungibility-asset-transformation-rational-framework.md` |
-| Sims (2003) | `core-research/fungibility-asset-transformation-rational-framework.md` |
+| Sims (2003) | `core-research/fungibility-asset-transformation-rational-framework.md`, `core-research/mental-accounting-cognitive-science-parallels.md` |
 | Kőszegi & Rabin (2006) | `core-research/fungibility-asset-transformation-rational-framework.md` |
+| Evans & Stanovich (2013) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Evans (2008) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Stanovich (2011) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Simon (1955, 1956) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Gigerenzer & Todd (1999) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| DeMiguel et al. (2009) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Miller (1956) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Sweller (1988) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Kahneman (1973) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Trope & Liberman (2010) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Bartlett (1932) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Zelizer (1994) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Lakoff & Johnson (1980, 1999) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Barsalou (2008) | `core-research/mental-accounting-cognitive-science-parallels.md` |
 
 ---
 
