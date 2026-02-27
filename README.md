@@ -2,7 +2,7 @@
 
 > **Mathematical frameworks for eliminating cognitive biases from portfolio decisions**
 
-[Collected 2025-01-22]
+[Initiated 2026-01-22, ongoing — see commit history]
 
 ## TL;DR
 

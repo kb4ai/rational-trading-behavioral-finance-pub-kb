@@ -2,7 +2,7 @@
 
 > **A comprehensive overview of foundational papers on framing effects, disposition effect, mental accounting, and cognitive biases in trading**
 
-[Collected 2025-01-23 via ChatGPT 5.2]
+[Collected 2026-01-23 via ChatGPT 5.2]
 
 ## Research Conversations
 
