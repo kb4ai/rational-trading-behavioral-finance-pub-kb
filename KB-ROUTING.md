@@ -79,6 +79,30 @@
    - Best for: The mathematically rigorous "polymath's view" — why rational entities see no distinction between "savings" and "spending money"; why every voluntary exchange is a neutral transformation, not a loss
    - Source: Claude Opus 4.6 synthesis, 2026-02-27
 
+5. **[mental-accounting-cognitive-science-parallels.md](core-research/mental-accounting-cognitive-science-parallels.md)**
+   - Focus: Mental accounting grounded in 7 major cognitive science frameworks
+   - Frameworks covered: Dual-process theory (Kahneman, Evans, Stanovich tripartite model), bounded rationality (Simon satisficing), ecological rationality (Gigerenzer adaptive toolbox), cognitive load (Miller 7±2, Sweller), attention economics (Kahneman 1973, Sims rational inattention, Kőszegi-Matejka water-filling), construal level theory (Trope & Liberman), schema theory (Bartlett, Zelizer), embodied cognition (Lakoff & Johnson conceptual metaphor, Barsalou grounded cognition)
+   - Key sections: Integrated 6-level mechanistic model, MONEY IS WATER metaphor analysis, debiasing implications across all levels
+   - Best for: Understanding WHY mental accounting exists mechanistically — not just what it is, but the computational, attentional, embodied, and cultural architecture that produces it
+   - Source: Claude Sonnet 4.6 synthesis, 2026-02-27
+
+### Philosophical Foundations (Ramblings)
+
+6. **[spending-as-ontological-error-semiotics-language.md](ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md)**
+   - Focus: "Spending" as category error at 5 levels: etymology, semiotic, ontological, cognitive, linguistic
+   - Key coverage: Peirce sign taxonomy, Baudrillard hyperreal money, Chen (2013) Sapir-Whorf savings data, Wittgenstein language games, Ryle category mistakes, Searle institutional facts, category theory morphisms, dual coding theory, Grandin visual taxonomy, Bourdieu linguistic capital
+   - Best for: Understanding why "spending" is not merely biased but ontologically incoherent
+
+7. **[platonic-formalist-economics-beyond-keynesian.md](ramblings/2026-02-27--platonic-formalist-economics-beyond-keynesian.md)**
+   - Focus: Maps 6 philosophical positions on economic "ground truth"
+   - Key coverage: Debreu-Bourbaki program, Austrian praxeology, Keynesian animal spirits, Veblen institutional habits, Marx commodity fetishism, Georgescu-Roegen thermodynamics, Arthur complexity economics
+   - Best for: Understanding the philosophical landscape our framework sits within
+
+8. **[artificial-partitioning-work-leisure-watts-krishnamurti.md](ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md)**
+   - Focus: Structural isomorphism between work/leisure and savings/spending partitions
+   - Key coverage: Watts (Taoist integration), Krishnamurti (thought-as-fragmentation), Csikszentmihalyi (flow), Heidegger (das Man), Illich (shadow work), Graeber (bullshit jobs)
+   - Best for: Seeing the savings/spending partition as one instance of a universal cognitive partitioning error
+
 ---
 
 ## Research Artifacts Index
@@ -179,6 +203,7 @@
 | behavioral-biases-multi-paper-synthesis.md | 2026-01-23 | OpenAI | ChatGPT 5.2 |
 | mental-accounting-thaler-comprehensive.md | 2026-02-27 | Anthropic | Claude Sonnet 4.6 |
 | fungibility-asset-transformation-rational-framework.md | 2026-02-27 | Anthropic | Claude Opus 4.6 |
+| mental-accounting-cognitive-science-parallels.md | 2026-02-27 | Anthropic | Claude Sonnet 4.6 |
 
 ## Future Development
 

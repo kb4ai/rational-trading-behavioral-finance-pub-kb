@@ -129,6 +129,26 @@ Papers cited in research artifacts for supporting evidence.
 | **BestEx Research** | Retail adverse selection at 11.92% of spread vs exchange at 60.64% | Recent |
 | **Vanguard Research** | Annual rebalancing delivers ~51 basis points risk-adjusted benefit | Recent |
 
+### Philosophical Foundations (from Ramblings)
+
+| Citation | Full Reference | DOI |
+|----------|----------------|-----|
+| **Chen (2013)** | Chen MK. The Effect of Language on Economic Behavior: Evidence from Savings Rates, Health Behaviors, and Retirement Assets. *American Economic Review*, 103(2), 690-731. | [10.1257/aer.103.2.690](https://doi.org/10.1257/aer.103.2.690) |
+| **Hornborg (1999)** | Hornborg A. Money and the Semiotics of Ecosystem Dissolution. *Journal of Material Culture*, 4(2), 143-162. | [10.1177/135918359900400202](https://doi.org/10.1177/135918359900400202) |
+| **Steininger (2025)** | Steininger LE. Late Wittgenstein's money. *Finance and Society*, 11(1), 123-130. | [10.1017/fas.2024.27](https://doi.org/10.1017/fas.2024.27) |
+| **Fong & Spivak (2019)** | Fong B, Spivak DI. *An Invitation to Applied Category Theory*. Cambridge University Press. | [arXiv: 1803.05316](https://arxiv.org/abs/1803.05316) |
+| **Grandin (2022)** | Grandin T. *Visual Thinking: The Hidden Gifts of People Who Think in Pictures, Patterns, and Abstractions*. Riverhead Books. | — |
+| **Rozenkrantz, D'Mello & Gabrieli (2021)** | Rozenkrantz L, D'Mello AM, Gabrieli JDE. Enhanced Rationality in Autism Spectrum Disorder. *Trends in Cognitive Sciences*, 25(8), 685-696. | [10.1016/j.tics.2021.05.004](https://doi.org/10.1016/j.tics.2021.05.004) |
+| **Bourdieu (1977)** | Bourdieu P. The economics of linguistic exchanges. *Social Science Information*, 16(6), 645-668. | [10.1177/053901847701600601](https://doi.org/10.1177/053901847701600601) |
+| **Debreu (1959)** | Debreu G. *Theory of Value: An Axiomatic Analysis of Economic Equilibrium*. Cowles Foundation Monograph No. 17, Yale University Press. | — |
+| **Arrow & Debreu (1954)** | Arrow KJ, Debreu G. Existence of an Equilibrium for a Competitive Economy. *Econometrica*, 22(3), 265-290. | — |
+| **von Mises (1949)** | Mises L von. *Human Action: A Treatise on Economics*. Yale University Press. | — |
+| **Hayek (1945)** | Hayek FA. The Use of Knowledge in Society. *American Economic Review*, 35(4), 519-530. | — |
+| **Georgescu-Roegen (1971)** | Georgescu-Roegen N. *The Entropy Law and the Economic Process*. Harvard University Press. | — |
+| **Graeber (2018)** | Graeber D. *Bullshit Jobs: A Theory*. Simon & Schuster. | — |
+| **Illich (1981)** | Illich I. *Shadow Work*. Marion Boyars. | — |
+| **Csikszentmihalyi (1990)** | Csikszentmihalyi M. *Flow: The Psychology of Optimal Experience*. Harper & Row. | — |
+
 ## Cross-Reference Index
 
 Where each primary paper is discussed:
@@ -174,6 +194,19 @@ Where each primary paper is discussed:
 | Zelizer (1994) | `core-research/mental-accounting-cognitive-science-parallels.md` |
 | Lakoff & Johnson (1980, 1999) | `core-research/mental-accounting-cognitive-science-parallels.md` |
 | Barsalou (2008) | `core-research/mental-accounting-cognitive-science-parallels.md` |
+| Chen (2013) | `ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md` |
+| Hornborg (1999) | `ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md` |
+| Steininger (2025) | `ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md` |
+| Fong & Spivak (2019) | `ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md` |
+| Grandin (2022) | `ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md` |
+| Bourdieu (1977) | `ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md` |
+| Debreu (1959), Arrow & Debreu (1954) | `ramblings/2026-02-27--platonic-formalist-economics-beyond-keynesian.md` |
+| von Mises (1949) | `ramblings/2026-02-27--platonic-formalist-economics-beyond-keynesian.md` |
+| Hayek (1945) | `ramblings/2026-02-27--platonic-formalist-economics-beyond-keynesian.md` |
+| Georgescu-Roegen (1971) | `ramblings/2026-02-27--platonic-formalist-economics-beyond-keynesian.md` |
+| Graeber (2018) | `ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md` |
+| Illich (1981) | `ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md` |
+| Csikszentmihalyi (1990) | `ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md` |
 
 ---
 

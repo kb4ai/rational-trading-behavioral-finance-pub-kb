@@ -383,4 +383,6 @@ The 2025 Norges Bank study showed algorithms exhibit significantly weaker dispos
 
 ---
 
-*Cross-references: [BIBLIOGRAPHY.md](../BIBLIOGRAPHY.md) | [KB-ROUTING.md](../KB-ROUTING.md) | [behavioral-biases-multi-paper-synthesis.md](behavioral-biases-multi-paper-synthesis.md)*
+*Cross-references: [fungibility-asset-transformation-rational-framework.md](fungibility-asset-transformation-rational-framework.md) | [mental-accounting-cognitive-science-parallels.md](mental-accounting-cognitive-science-parallels.md) | [behavioral-biases-multi-paper-synthesis.md](behavioral-biases-multi-paper-synthesis.md) | [BIBLIOGRAPHY.md](../BIBLIOGRAPHY.md) | [KB-ROUTING.md](../KB-ROUTING.md)*
+
+*Philosophical foundations: [spending-as-ontological-error-semiotics-language.md](../ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md) | [platonic-formalist-economics-beyond-keynesian.md](../ramblings/2026-02-27--platonic-formalist-economics-beyond-keynesian.md) | [artificial-partitioning-work-leisure-watts-krishnamurti.md](../ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md)*
