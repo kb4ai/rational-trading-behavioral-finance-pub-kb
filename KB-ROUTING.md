@@ -171,12 +171,12 @@
 
 | File | Collected | AI Provider | Model |
 |------|-----------|-------------|-------|
-| claude-opus-4-5-deep-research.md | 2025-01-22 | Anthropic | Claude Opus 4.5 |
-| claude-opus-4-5-deep-research-with-clarifications.md | 2025-01-22 | Anthropic | Claude Opus 4.5 |
-| perplexity-deep-research.md | 2025-01-22 | Perplexity | Deep Research |
-| chatgpt-5.2-deep-research.md | 2025-01-22 | OpenAI | ChatGPT 5.2 |
-| de-martino-2008-framing-effects-autism-explained.md | 2025-01-23 | OpenAI | ChatGPT 5.2 |
-| behavioral-biases-multi-paper-synthesis.md | 2025-01-23 | OpenAI | ChatGPT 5.2 |
+| claude-opus-4-5-deep-research.md | 2026-01-22 | Anthropic | Claude Opus 4.5 |
+| claude-opus-4-5-deep-research-with-clarifications.md | 2026-01-22 | Anthropic | Claude Opus 4.5 |
+| perplexity-deep-research.md | 2026-01-22 | Perplexity | Deep Research |
+| chatgpt-5.2-deep-research.md | 2026-01-22 | OpenAI | ChatGPT 5.2 |
+| de-martino-2008-framing-effects-autism-explained.md | 2026-01-23 | OpenAI | ChatGPT 5.2 |
+| behavioral-biases-multi-paper-synthesis.md | 2026-01-23 | OpenAI | ChatGPT 5.2 |
 | mental-accounting-thaler-comprehensive.md | 2026-02-27 | Anthropic | Claude Sonnet 4.6 |
 | fungibility-asset-transformation-rational-framework.md | 2026-02-27 | Anthropic | Claude Opus 4.6 |
 

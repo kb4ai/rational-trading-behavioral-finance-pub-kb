@@ -5,7 +5,7 @@
 > **Authors:** De Martino B, Harrison NA, Knafo S, Bird G, Dolan RJ
 > **Journal:** Journal of Neuroscience, 2008 Oct 15;28(42):10746-50
 
-[Collected 2025-01-23 via ChatGPT 5.2]
+[Collected 2026-01-23 via ChatGPT 5.2]
 
 ## Research Conversations
 
