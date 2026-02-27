@@ -18,6 +18,8 @@
 
 5. **[Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)** - 85% of investors disposed to accepting confirming opinions. Creates echo chambers where flawed theses go unchallenged.
 
+6. **[Mental Accounting](https://en.wikipedia.org/wiki/Mental_accounting)** - Labeling money into non-fungible "accounts" (savings, spending, emergency) when mathematically W_total = Σ assets. Causes 20pp/year wealth destruction (holding 2% savings while carrying 22% debt). "Spending" is actually asset transformation (cash → goods → utility), not loss. [Comprehensive analysis](core-research/mental-accounting-thaler-comprehensive.md) | [Rational framework](core-research/fungibility-asset-transformation-rational-framework.md)
+
 **The Debiasing Solutions:**
 
 * **Kelly Criterion** - Mathematically optimal position sizing: f* = (bp - q) / b. Use Half-Kelly for reduced volatility.
@@ -32,7 +34,8 @@
 * High-IQ investors achieve 4.9% higher annual returns through reduced disposition effect and superior market timing ([Grinblatt et al., 2012](https://doi.org/10.1016/j.jfineco.2011.05.016))
 * Algorithms exhibit virtually zero disposition effect vs. human traders' 15-20pp gap
 * See also: [Multi-paper synthesis](core-research/behavioral-biases-multi-paper-synthesis.md) covering 7 foundational studies (De Martino, Grinblatt, Odean, Barber & Odean, Thaler, Samuelson & Zeckhauser, Yafai)
-* **[Full Bibliography](BIBLIOGRAPHY.md)** — Central reference for all 30+ academic papers cited in this knowledge base with DOI links
+* See also: [Mental accounting comprehensive analysis](core-research/mental-accounting-thaler-comprehensive.md) | [Fungibility & asset transformation rational framework](core-research/fungibility-asset-transformation-rational-framework.md) — mathematical proof that "spending" is asset transformation, not loss; ownership as set theory; game-theoretic exploitation of mental accountants
+* **[Full Bibliography](BIBLIOGRAPHY.md)** — Central reference for all 40+ academic papers cited in this knowledge base with DOI links
 
 **Key Insight:** Awareness alone is insufficient. Knowing about biases does not prevent them. Only systems that mechanically override human intuition can achieve rational outcomes.
 
@@ -46,7 +49,9 @@ rational-trading-behavioral-finance-pub-kb/
 ├── CLAUDE.md                    # AI assistant instructions
 ├── core-research/               # Synthesized key findings
 │   ├── de-martino-2008-framing-effects-autism-explained.md
-│   └── behavioral-biases-multi-paper-synthesis.md
+│   ├── behavioral-biases-multi-paper-synthesis.md
+│   ├── mental-accounting-thaler-comprehensive.md
+│   └── fungibility-asset-transformation-rational-framework.md
 ├── debiasing-frameworks/        # Mathematical solutions
 ├── market-microstructure/       # Institutional exploitation patterns
 ├── research-artifacts/          # Original AI research outputs
@@ -68,6 +73,8 @@ rational-trading-behavioral-finance-pub-kb/
 | Perplexity | Deep Research | Neurodivergent advantage, institutional exploitation | [perplexity-deep-research.md](research-artifacts/perplexity-deep-research.md) |
 | ChatGPT | 5.2 Deep Research | Cognitive/emotional biases in retail trading | [chatgpt-5.2-deep-research.md](research-artifacts/chatgpt-5.2-deep-research.md) |
 | ChatGPT | 5.2 | Multi-paper synthesis: 7 foundational behavioral bias studies | [behavioral-biases-multi-paper-synthesis.md](core-research/behavioral-biases-multi-paper-synthesis.md) |
+| Claude | Sonnet 4.6 | Mental accounting comprehensive: Thaler framework, hedonic editing, institutional exploitation | [mental-accounting-thaler-comprehensive.md](core-research/mental-accounting-thaler-comprehensive.md) |
+| Claude | Opus 4.6 | Fungibility axiom: spending as asset transformation, rational entity model, game theory | [fungibility-asset-transformation-rational-framework.md](core-research/fungibility-asset-transformation-rational-framework.md) |
 
 ## Key Concepts
 
@@ -97,6 +104,9 @@ Behavioral biases function as wealth transfer mechanisms from neurotypical retai
 * "Diamond hands" / "Paper hands" - identity-linked bias
 * "Averaging down" - commitment escalation
 * "It has to come back" - [mean reversion fallacy](https://yourlogicalfallacyis.com/the-gamblers-fallacy)
+* "I'm broke" (while holding savings) - mental accounting partition creating artificial scarcity
+* "I have to dip into my life savings" - as though prior expenditures came from a different owner
+* "I spent all my money" - framing asset transformation (cash → goods) as destruction
 
 ## Cross-References
 

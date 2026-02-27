@@ -11,7 +11,7 @@
 | [Anchoring](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) | 20-40% valuation shift from initial price exposure | [perplexity](research-artifacts/perplexity-deep-research.md) | [Wikipedia](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) |
 | [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias) | 85% disposed to accepting confirming opinions | [claude-opus-clarif](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) | [Wikipedia](https://en.wikipedia.org/wiki/Confirmation_bias) |
 | [Sunk Cost Fallacy](https://yourlogicalfallacyis.com/sunk-cost) | 124% longer holding periods for losers vs winners | [perplexity](research-artifacts/perplexity-deep-research.md) | [YLFI](https://yourlogicalfallacyis.com/sunk-cost) |
-| [Mental Accounting](https://en.wikipedia.org/wiki/Mental_accounting) | Money mentally labeled reduces fungibility | [Thaler 1985](core-research/behavioral-biases-multi-paper-synthesis.md#thaler-1985-mental-accountingmoney-gets-labels) | [Wikipedia](https://en.wikipedia.org/wiki/Mental_accounting) |
+| [Mental Accounting](https://en.wikipedia.org/wiki/Mental_accounting) | Money mentally labeled reduces fungibility; house money g=0.37; payment decoupling drives overspending | [Thaler 1985](core-research/behavioral-biases-multi-paper-synthesis.md#thaler-1985-mental-accountingmoney-gets-labels), [**Comprehensive Analysis**](core-research/mental-accounting-thaler-comprehensive.md) | [Wikipedia](https://en.wikipedia.org/wiki/Mental_accounting) |
 | [Status Quo Bias](https://en.wikipedia.org/wiki/Status_quo_bias) | Disproportionate preference for default/current state | [Samuelson & Zeckhauser 1988](core-research/behavioral-biases-multi-paper-synthesis.md#samuelson--zeckhauser-1988-status-quo-biasdoing-nothing-is-a-powerful-option) | [Wikipedia](https://en.wikipedia.org/wiki/Status_quo_bias) |
 
 ### Debiasing Frameworks
@@ -64,6 +64,20 @@
    - Key sections: Framing effects correction (46% vs 65-80%), disposition effect mechanics, IQ-trading link, status quo bias
    - Best for: Understanding the interconnected family of cognitive biases affecting trading decisions
    - Source: ChatGPT 5.2 research conversation
+
+3. **[mental-accounting-thaler-comprehensive.md](core-research/mental-accounting-thaler-comprehensive.md)**
+   - Focus: Complete academic treatment of Thaler's mental accounting framework (1985, 1999)
+   - Papers covered: Thaler 1985/1999, Kahneman & Tversky 1979/1992, Thaler & Johnson 1990, Prelec & Loewenstein 1998, Arkes & Blumer 1985, Benartzi & Thaler 1995, Paul et al. 2023
+   - Key sections: Formal mathematical model (value function, hedonic editing rules), house money meta-analysis (g=0.37), fungibility violation analysis, institutional exploitation mechanisms, debiasing strategies
+   - Best for: Rigorous formal treatment with complete citation apparatus; understanding how mental accounting drives trading pathologies
+   - Source: Claude Sonnet 4.6 web research, 2026-02-27
+
+4. **[fungibility-asset-transformation-rational-framework.md](core-research/fungibility-asset-transformation-rational-framework.md)**
+   - Focus: Radical rational-mathematical perspective on why "spending" is a cognitive illusion and mental labels are formally incoherent
+   - Papers covered: Hohfeld 1917 (ownership as bundle of rights), Rosch 1978 (prototype categorization), Shefrin & Thaler 1988 (behavioral life-cycle), Baron-Cohen 2009 (systematizing), Rabin & Weizsäcker 2009 (narrow bracketing → dominated choices), Gul & Pesendorfer 2001 (temptation axiomatics), Kőszegi & Matejka 2020 (rational inattention), Barberis et al. 2001 (asset pricing), Knutson et al. 2007 (neuroscience), Rozenkrantz et al. 2021 (ASD enhanced rationality)
+   - Key sections: Ownership as set theory, spending as asset transformation (conservation law), thermodynamic analogy, partition welfare loss, game-theoretic exploitation of mental accountants, autistic advantage hypothesis, linguistic markers, philosophical perspectives (Stoic/Buddhist), neuroscience of pain-of-paying
+   - Best for: The mathematically rigorous "polymath's view" — why rational entities see no distinction between "savings" and "spending money"; why every voluntary exchange is a neutral transformation, not a loss
+   - Source: Claude Opus 4.6 synthesis, 2026-02-27
 
 ---
 
@@ -163,6 +177,8 @@
 | chatgpt-5.2-deep-research.md | 2025-01-22 | OpenAI | ChatGPT 5.2 |
 | de-martino-2008-framing-effects-autism-explained.md | 2025-01-23 | OpenAI | ChatGPT 5.2 |
 | behavioral-biases-multi-paper-synthesis.md | 2025-01-23 | OpenAI | ChatGPT 5.2 |
+| mental-accounting-thaler-comprehensive.md | 2026-02-27 | Anthropic | Claude Sonnet 4.6 |
+| fungibility-asset-transformation-rational-framework.md | 2026-02-27 | Anthropic | Claude Opus 4.6 |
 
 ## Future Development
 
