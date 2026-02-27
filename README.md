@@ -51,7 +51,8 @@ rational-trading-behavioral-finance-pub-kb/
 │   ├── de-martino-2008-framing-effects-autism-explained.md
 │   ├── behavioral-biases-multi-paper-synthesis.md
 │   ├── mental-accounting-thaler-comprehensive.md
-│   └── fungibility-asset-transformation-rational-framework.md
+│   ├── fungibility-asset-transformation-rational-framework.md
+│   └── mental-accounting-cognitive-science-parallels.md
 ├── debiasing-frameworks/        # Mathematical solutions
 ├── market-microstructure/       # Institutional exploitation patterns
 ├── research-artifacts/          # Original AI research outputs
@@ -61,7 +62,11 @@ rational-trading-behavioral-finance-pub-kb/
 │   ├── chatgpt-5.2-deep-research.md
 │   ├── chatgpt deep research *.pdf/docx
 │   └── prompts/                 # Original research prompts
-└── ramblings/                   # Development notes
+└── ramblings/                   # Philosophical foundations & development notes
+    ├── spending-as-ontological-error-semiotics-language.md
+    ├── platonic-formalist-economics-beyond-keynesian.md
+    ├── artificial-partitioning-work-leisure-watts-krishnamurti.md
+    └── original-prompt-mental-accounting-observations.md
 ```
 
 ## Research Sources
@@ -75,6 +80,25 @@ rational-trading-behavioral-finance-pub-kb/
 | ChatGPT | 5.2 | Multi-paper synthesis: 7 foundational behavioral bias studies | [behavioral-biases-multi-paper-synthesis.md](core-research/behavioral-biases-multi-paper-synthesis.md) |
 | Claude | Sonnet 4.6 | Mental accounting comprehensive: Thaler framework, hedonic editing, institutional exploitation | [mental-accounting-thaler-comprehensive.md](core-research/mental-accounting-thaler-comprehensive.md) |
 | Claude | Opus 4.6 | Fungibility axiom: spending as asset transformation, rational entity model, game theory | [fungibility-asset-transformation-rational-framework.md](core-research/fungibility-asset-transformation-rational-framework.md) |
+| Claude | Sonnet 4.6 | Mental accounting grounded in 7 cognitive science frameworks (dual-process, bounded rationality, cognitive load, attention economics, construal level, schema theory, embodied cognition) | [mental-accounting-cognitive-science-parallels.md](core-research/mental-accounting-cognitive-science-parallels.md) |
+
+## The Deeper Thesis: Beyond "Bias Correction"
+
+Standard behavioral economics says: *"Humans are biased. Here's how to fix them."*
+
+This repository develops a stronger claim: **the mathematical description is the ground truth. Human experience is the distortion.**
+
+"Spending" is not merely a biased frame — it is an [ontological category error](ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md) baked into language itself. The word *expendere* (Latin: "to weigh out") encodes unidirectional destruction of a substance. What actually happens in exchange is a bidirectional morphism — a structure-preserving transformation where total value is conserved, merely rearranged. Category theory, not psychology, provides the [corrective ontology](core-research/fungibility-asset-transformation-rational-framework.md).
+
+This same partitioning error — imposing artificial boundaries on continuous flows — appears across domains:
+
+* **Savings vs. spending** → money is one fungible resource; labels carry zero information
+* **Work vs. leisure** → [the same structural error](ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md), diagnosed by Watts, Krishnamurti, Csikszentmihalyi, Heidegger, Illich, and Graeber
+* **Gains vs. losses** → prospect theory's reference-dependent framing of what are, mathematically, portfolio state transitions
+
+The [philosophical landscape](ramblings/2026-02-27--platonic-formalist-economics-beyond-keynesian.md) maps where this framework sits: modified mathematical Platonism in the Debreu tradition, with Georgescu-Roegen's thermodynamic realism (conservation law as physical constraint) and Veblen's insight that economic categories are "habits of thought," not natural kinds.
+
+Visual/pattern thinkers and autistic cognitive profiles show [structural immunity](ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md#6-visual-thinking-vs-linguistic-thinking) to the category error because they bypass the verbal representation where the error lives (Grandin 2022, Rozenkrantz et al. 2021, Paivio dual coding theory).
 
 ## Key Concepts
 
