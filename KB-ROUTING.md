@@ -105,6 +105,19 @@
 
 ---
 
+## Research Sources by AI Provider
+
+| Provider | Model/Service | Focus | File |
+|----------|---------------|-------|------|
+| Claude | Opus 4.5 | Cognitive architecture of trading failure | [claude-opus-4-5-deep-research.md](research-artifacts/claude-opus-4-5-deep-research.md) |
+| Claude | Opus 4.5 | Quantitative framework for rational exploitation | [claude-opus-4-5-deep-research-with-clarifications.md](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) |
+| Perplexity | Deep Research | Neurodivergent advantage, institutional exploitation | [perplexity-deep-research.md](research-artifacts/perplexity-deep-research.md) |
+| ChatGPT | 5.2 Deep Research | Cognitive/emotional biases in retail trading | [chatgpt-5.2-deep-research.md](research-artifacts/chatgpt-5.2-deep-research.md) |
+| ChatGPT | 5.2 | Multi-paper synthesis: 7 foundational behavioral bias studies | [behavioral-biases-multi-paper-synthesis.md](core-research/behavioral-biases-multi-paper-synthesis.md) |
+| Claude | Sonnet 4.6 | Mental accounting comprehensive: Thaler framework, hedonic editing, institutional exploitation | [mental-accounting-thaler-comprehensive.md](core-research/mental-accounting-thaler-comprehensive.md) |
+| Claude | Opus 4.6 | Fungibility axiom: spending as asset transformation, rational entity model, game theory | [fungibility-asset-transformation-rational-framework.md](core-research/fungibility-asset-transformation-rational-framework.md) |
+| Claude | Sonnet 4.6 | Mental accounting grounded in 7 cognitive science frameworks | [mental-accounting-cognitive-science-parallels.md](core-research/mental-accounting-cognitive-science-parallels.md) |
+
 ## Research Artifacts Index
 
 ### Primary Research Outputs

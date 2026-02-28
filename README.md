@@ -6,7 +6,7 @@
 
 ## TL;DR
 
-**The 5 Biases That Destroy Trading Performance:**
+**The 6 Biases That Destroy Trading Performance:**
 
 1. **Disposition Effect** - Selling winners too early, holding losers too long. Costs ~4-6% annually. Measured by PGR/PLR ratio (14.8% vs 9.8% in Odean's study).
 
@@ -33,54 +33,9 @@
 * Autistic individuals show 65-80% reduced susceptibility to framing effects ([De Martino et al., 2008](https://doi.org/10.1523/JNEUROSCI.2895-08.2008)) — [detailed explanation](core-research/de-martino-2008-framing-effects-autism-explained.md)
 * High-IQ investors achieve 4.9% higher annual returns through reduced disposition effect and superior market timing ([Grinblatt et al., 2012](https://doi.org/10.1016/j.jfineco.2011.05.016))
 * Algorithms exhibit virtually zero disposition effect vs. human traders' 15-20pp gap
-* See also: [Multi-paper synthesis](core-research/behavioral-biases-multi-paper-synthesis.md) covering 7 foundational studies (De Martino, Grinblatt, Odean, Barber & Odean, Thaler, Samuelson & Zeckhauser, Yafai)
-* See also: [Mental accounting comprehensive analysis](core-research/mental-accounting-thaler-comprehensive.md) | [Fungibility & asset transformation rational framework](core-research/fungibility-asset-transformation-rational-framework.md) — mathematical proof that "spending" is asset transformation, not loss; ownership as set theory; game-theoretic exploitation of mental accountants
-* **[Full Bibliography](BIBLIOGRAPHY.md)** — Central reference for all 40+ academic papers cited in this knowledge base with DOI links
+* See also: [Multi-paper synthesis](core-research/behavioral-biases-multi-paper-synthesis.md) | [Cognitive science parallels](core-research/mental-accounting-cognitive-science-parallels.md)
 
 **Key Insight:** Awareness alone is insufficient. Knowing about biases does not prevent them. Only systems that mechanically override human intuition can achieve rational outcomes.
-
-## Directory Structure
-
-```
-rational-trading-behavioral-finance-pub-kb/
-├── README.md                    # This file
-├── KB-ROUTING.md                # Navigation & cross-references
-├── BIBLIOGRAPHY.md              # Central academic paper references
-├── CLAUDE.md                    # AI assistant instructions
-├── core-research/               # Synthesized key findings
-│   ├── de-martino-2008-framing-effects-autism-explained.md
-│   ├── behavioral-biases-multi-paper-synthesis.md
-│   ├── mental-accounting-thaler-comprehensive.md
-│   ├── fungibility-asset-transformation-rational-framework.md
-│   └── mental-accounting-cognitive-science-parallels.md
-├── debiasing-frameworks/        # Mathematical solutions
-├── market-microstructure/       # Institutional exploitation patterns
-├── research-artifacts/          # Original AI research outputs
-│   ├── claude-opus-4-5-deep-research.md
-│   ├── claude-opus-4-5-deep-research-with-clarifications.md
-│   ├── perplexity-deep-research.md
-│   ├── chatgpt-5.2-deep-research.md
-│   ├── chatgpt deep research *.pdf/docx
-│   └── prompts/                 # Original research prompts
-└── ramblings/                   # Philosophical foundations & development notes
-    ├── spending-as-ontological-error-semiotics-language.md
-    ├── platonic-formalist-economics-beyond-keynesian.md
-    ├── artificial-partitioning-work-leisure-watts-krishnamurti.md
-    └── original-prompt-mental-accounting-observations.md
-```
-
-## Research Sources
-
-| Provider | Model/Service | Focus | File |
-|----------|---------------|-------|------|
-| Claude | Opus 4.5 | Cognitive architecture of trading failure | [claude-opus-4-5-deep-research.md](research-artifacts/claude-opus-4-5-deep-research.md) |
-| Claude | Opus 4.5 | Quantitative framework for rational exploitation | [claude-opus-4-5-deep-research-with-clarifications.md](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) |
-| Perplexity | Deep Research | Neurodivergent advantage, institutional exploitation | [perplexity-deep-research.md](research-artifacts/perplexity-deep-research.md) |
-| ChatGPT | 5.2 Deep Research | Cognitive/emotional biases in retail trading | [chatgpt-5.2-deep-research.md](research-artifacts/chatgpt-5.2-deep-research.md) |
-| ChatGPT | 5.2 | Multi-paper synthesis: 7 foundational behavioral bias studies | [behavioral-biases-multi-paper-synthesis.md](core-research/behavioral-biases-multi-paper-synthesis.md) |
-| Claude | Sonnet 4.6 | Mental accounting comprehensive: Thaler framework, hedonic editing, institutional exploitation | [mental-accounting-thaler-comprehensive.md](core-research/mental-accounting-thaler-comprehensive.md) |
-| Claude | Opus 4.6 | Fungibility axiom: spending as asset transformation, rational entity model, game theory | [fungibility-asset-transformation-rational-framework.md](core-research/fungibility-asset-transformation-rational-framework.md) |
-| Claude | Sonnet 4.6 | Mental accounting grounded in 7 cognitive science frameworks (dual-process, bounded rationality, cognitive load, attention economics, construal level, schema theory, embodied cognition) | [mental-accounting-cognitive-science-parallels.md](core-research/mental-accounting-cognitive-science-parallels.md) |
 
 ## The Deeper Thesis: Beyond "Bias Correction"
 
@@ -132,25 +87,18 @@ Behavioral biases function as wealth transfer mechanisms from neurotypical retai
 * "I have to dip into my life savings" - as though prior expenditures came from a different owner
 * "I spent all my money" - framing asset transformation (cash → goods) as destruction
 
-## Cross-References
+## Navigation
 
-* **Cognitive Science:** See `cognitive-kb/` for neuroscience foundations
-* **Formal Methods:** Mathematical frameworks in `formal-methods-kb/`
-* **Related Markets:** Private credit analysis in `financial-markets-kb/private-credit-markets-pub-kb/`
-
-## Status
-
-**WIP** - Core research complete, synthesis documents pending development.
+* **[KB-ROUTING.md](KB-ROUTING.md)** — Full document index, research sources by AI provider, bias taxonomy, debiasing frameworks, cross-KB navigation
+* **[BIBLIOGRAPHY.md](BIBLIOGRAPHY.md)** — Central reference for all 55+ academic papers with DOI links and cross-reference index
 
 ## External Resources
 
 ### Logical Fallacies & Cognitive Biases
 
-These reference sites provide comprehensive catalogs of logical fallacies and cognitive biases—many directly applicable to trading discourse and market narratives:
-
-* **[Your Logical Fallacy Is](https://yourlogicalfallacyis.com/)** — Visual poster-style reference for common logical fallacies. Particularly relevant: [sunk cost](https://yourlogicalfallacyis.com/sunk-cost), [appeal to authority](https://yourlogicalfallacyis.com/appeal-to-authority), [anecdotal](https://yourlogicalfallacyis.com/anecdotal), [the gambler's fallacy](https://yourlogicalfallacyis.com/the-gamblers-fallacy)
+* **[Your Logical Fallacy Is](https://yourlogicalfallacyis.com/)** — Visual poster-style reference. Particularly relevant: [sunk cost](https://yourlogicalfallacyis.com/sunk-cost), [appeal to authority](https://yourlogicalfallacyis.com/appeal-to-authority), [anecdotal](https://yourlogicalfallacyis.com/anecdotal), [the gambler's fallacy](https://yourlogicalfallacyis.com/the-gamblers-fallacy)
 * **[List of Fallacies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_fallacies)** — Comprehensive taxonomy of formal and informal logical fallacies
-* **[Cognitive Biases (Wikipedia)](https://en.wikipedia.org/wiki/Cognitive_bias)** — Overview and categorization of systematic cognitive biases; see also the [List of Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) for exhaustive catalog
+* **[Cognitive Biases (Wikipedia)](https://en.wikipedia.org/wiki/Cognitive_bias)** — Overview and categorization; see also the [full list](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
 ### Key Fallacy-Bias Mappings for Trading
 
@@ -162,6 +110,10 @@ These reference sites provide comprehensive catalogs of logical fallacies and co
 | "My friend made 10x on crypto" | [Anecdotal Evidence](https://yourlogicalfallacyis.com/anecdotal) | Survivorship-biased samples |
 | "Markets fell because of [news]" | [Post Hoc](https://yourlogicalfallacyis.com/false-cause) | Correlation ≠ causation |
 | "Either HODL or you're weak" | [False Dilemma](https://yourlogicalfallacyis.com/black-or-white) | Excluding rational middle ground |
+
+## Status
+
+**WIP** — Core research and philosophical foundations complete. Debiasing implementation guides and market microstructure analysis pending.
 
 ---
 
