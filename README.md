@@ -20,6 +20,8 @@
 
 6. **[Mental Accounting](https://en.wikipedia.org/wiki/Mental_accounting)** - Labeling money into non-fungible "accounts" (savings, spending, emergency) when mathematically W_total = Σ assets. Causes 20pp/year wealth destruction (holding 2% savings while carrying 22% debt). "Spending" is actually asset transformation (cash → goods → utility), not loss. [Comprehensive analysis](core-research/mental-accounting-thaler-comprehensive.md) | [Rational framework](core-research/fungibility-asset-transformation-rational-framework.md)
 
+7. **[Single-Denominator Bias](https://en.wikipedia.org/wiki/Money_illusion)** - Evaluating portfolio in one unit of account (USD, BTC, gold) when the denomination choice is itself a frame that distorts perception. 60-80% evaluate nominally (Shafir et al., 1997); 15-30% spending errors from face value anchoring (Raghubir & Srivastava, 2002). A portfolio +15% in USD but -8% in BTC is the *same state* with two contradictory narratives. The denomination frame can flip the disposition effect's direction. [Core framework](core-research/multi-denomination-portfolio-valuation.md) | [Debiasing protocol](debiasing-frameworks/denomination-invariant-evaluation.md) | [Python implementation](debiasing-frameworks/examples/multi-denomination-tracker.py)
+
 **The Debiasing Solutions:**
 
 * **Kelly Criterion** - Mathematically optimal position sizing: f* = (bp - q) / b. Use Half-Kelly for reduced volatility.
@@ -27,6 +29,7 @@
 * **State-Space Formulation** - Portfolio optimization as pure MDP where historical entry prices never enter state representation.
 * **Pre-commitment Devices** - Automatic stop-losses, take-profit orders, written decision trees.
 * **Bayesian Updating** - Formal structure for incorporating new information without overweighting recent data.
+* **Denomination-Invariant Evaluation** - Evaluate portfolio value simultaneously in N denominations (USD, BTC, gold, CPI). The min-growth metric G(t₀,t₁) = min_d{V_d(t₁)/V_d(t₀)} mechanically overrides subjective denomination preference. If G > 1, growth is genuine across all frames. [Framework](debiasing-frameworks/denomination-invariant-evaluation.md)
 
 **The Neurodivergent Advantage:**
 
@@ -86,6 +89,8 @@ Behavioral biases function as wealth transfer mechanisms from neurotypical retai
 * "I'm broke" (while holding savings) - mental accounting partition creating artificial scarcity
 * "I have to dip into my life savings" - as though prior expenditures came from a different owner
 * "I spent all my money" - framing asset transformation (cash → goods) as destruction
+* "I'm up in USD!" - denomination bias hiding BTC/gold-denominated losses
+* "My BTC stack is growing" - single-denominator view masking purchasing power decline
 
 ## Navigation
 
@@ -113,7 +118,7 @@ Behavioral biases function as wealth transfer mechanisms from neurotypical retai
 
 ## Status
 
-**WIP** — Core research and philosophical foundations complete. Debiasing implementation guides and market microstructure analysis pending.
+**WIP** — Core research, philosophical foundations, and denomination-invariant evaluation framework complete. Market microstructure analysis pending.
 
 ---
 
