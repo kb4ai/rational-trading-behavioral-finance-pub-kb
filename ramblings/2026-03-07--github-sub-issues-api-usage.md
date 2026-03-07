@@ -50,14 +50,56 @@ mutation {
 }
 ```
 
+## REST API (alternative to GraphQL)
+
+```bash
+# Get numeric resource ID (NOT the issue number, NOT the GraphQL node_id)
+CHILD_ID=$(gh api repos/OWNER/REPO/issues/CHILD_NUMBER --jq '.id')
+
+# Link child as sub-issue
+gh api repos/OWNER/REPO/issues/PARENT_NUMBER/sub_issues -X POST -F sub_issue_id="$CHILD_ID"
+
+# List sub-issues
+gh api repos/OWNER/REPO/issues/PARENT_NUMBER/sub_issues
+
+# Remove sub-issue
+gh api repos/OWNER/REPO/issues/PARENT_NUMBER/sub_issues -X DELETE -F sub_issue_id="$CHILD_ID"
+```
+
+## Querying Sub-Issue Progress (GraphQL)
+
+```graphql
+{
+  repository(owner: "OWNER", name: "REPO") {
+    issue(number: 42) {
+      parent { number title }
+      subIssues(first: 100) { nodes { number title state } }
+      subIssuesSummary { total completed percentCompleted }
+    }
+  }
+}
+```
+
+## Constraints
+
+| Constraint | Value |
+|---|---|
+| Max sub-issues per parent | 100 |
+| Max nesting depth | 8 levels |
+| Parent uniqueness | Exactly 1 parent per issue |
+| Cross-org | Not supported (same org only) |
+| Cross-repo | Supported within same org |
+| Minimum permission | Triage role |
+
 ## Key Points
 
 * No GitHub Projects required — works directly on Issues
 * Sub-issues appear in the parent issue's body in the GitHub WebUI
 * Each sub-issue can still have its own labels, assignees, milestones
-* Sub-issues can be in different repositories (cross-repo hierarchy)
+* Cross-repo within same org; NOT cross-org
 * The `addSubIssue` mutation requires both parent and child to be Issues (not PRs)
 * A sub-issue can only have one parent
+* Use `replaceParent: true` in addSubIssue input to reparent an issue that already has a parent
 
 ## Workflow Used in This Repo
 
