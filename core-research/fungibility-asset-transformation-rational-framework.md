@@ -465,6 +465,22 @@ Cash payments generate significantly greater right insula + parietal activation 
 
 ---
 
-*Cross-references: [mental-accounting-thaler-comprehensive.md](mental-accounting-thaler-comprehensive.md) | [mental-accounting-cognitive-science-parallels.md](mental-accounting-cognitive-science-parallels.md) | [behavioral-biases-multi-paper-synthesis.md](behavioral-biases-multi-paper-synthesis.md) | [BIBLIOGRAPHY.md](../BIBLIOGRAPHY.md) | [KB-ROUTING.md](../KB-ROUTING.md)*
+---
+
+## 14. Extension: Denomination Choice as Fungibility Violation
+
+The choice of denomination (numéraire) for portfolio evaluation is itself a form of mental accounting label. When a trader evaluates performance "in USD" vs "in BTC," they apply the W_total scalar projection through a single denominator — discarding information about the portfolio's performance in all other dimensions.
+
+The multi-denomination portfolio valuation framework formalizes this: V_d(t) = Σᵢ (qᵢ · price_i(t)) / price_d(t) projects portfolio value into denomination d, and W_total(t) ≡ V_USD(t) is the single-denomination special case. The denomination-invariant growth metric G(t₀,t₁) = min_d{V_d(t₁)/V_d(t₀)} measures genuine cross-denomination growth.
+
+**Connection to the fungibility axiom**: A rational agent's decisions must be denomination-invariant — the denomination label carries zero information content for optimization, just as the mental account label carries zero information content. Any decision that changes when the denomination changes reveals a fungibility violation via framing.
+
+**Partition welfare loss extended**: L_total = L_partition + L_denomination, where L_denomination captures the additional welfare loss from denomination-dependent decision-making.
+
+See: [multi-denomination-portfolio-valuation.md](multi-denomination-portfolio-valuation.md) for the full mathematical treatment.
+
+---
+
+*Cross-references: [multi-denomination-portfolio-valuation.md](multi-denomination-portfolio-valuation.md) | [mental-accounting-thaler-comprehensive.md](mental-accounting-thaler-comprehensive.md) | [mental-accounting-cognitive-science-parallels.md](mental-accounting-cognitive-science-parallels.md) | [behavioral-biases-multi-paper-synthesis.md](behavioral-biases-multi-paper-synthesis.md) | [BIBLIOGRAPHY.md](../BIBLIOGRAPHY.md) | [KB-ROUTING.md](../KB-ROUTING.md)*
 
 *Philosophical foundations: [spending-as-ontological-error-semiotics-language.md](../ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md) | [platonic-formalist-economics-beyond-keynesian.md](../ramblings/2026-02-27--platonic-formalist-economics-beyond-keynesian.md) | [artificial-partitioning-work-leisure-watts-krishnamurti.md](../ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md)*

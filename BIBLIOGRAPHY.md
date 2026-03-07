@@ -2,7 +2,7 @@
 
 Central reference for all academic papers cited in this knowledge base.
 
-[Last updated: 2026-02-27]
+[Last updated: 2026-03-07]
 
 ## Primary Research Papers
 
@@ -28,6 +28,12 @@ Complete citations with DOI links for papers directly analyzed in this repositor
 | **Yafai et al. (2014)** | Yafai AF, Verrier D, Reidy L. Social conformity and autism spectrum disorder: A child-friendly take on a classic study. *Autism*, 18(8), 1007-1013. | [10.1177/1362361313508023](https://doi.org/10.1177/1362361313508023) |
 | **Prelec & Simester (2001)** | Prelec D, Simester D. Always Leave Home Without It: A Further Investigation of the Credit-Card Effect on Willingness to Pay. *Marketing Letters*, 12(1), 5-12. | [10.1023/A:1008196717017](https://doi.org/10.1023/A:1008196717017) |
 | **Rabin & Weizsäcker (2009)** | Rabin M, Weizsäcker G. Narrow Bracketing and Dominated Choices. *American Economic Review*, 99(4), 1508-1543. | [10.1257/aer.99.4.1508](https://doi.org/10.1257/aer.99.4.1508) |
+| **Shafir, Diamond & Tversky (1997)** | Shafir E, Diamond P, Tversky A. Money Illusion. *Quarterly Journal of Economics*, 112(2), 341-374. | [10.1162/003355397555208](https://doi.org/10.1162/003355397555208) |
+| **Raghubir & Srivastava (2002)** | Raghubir P, Srivastava J. Effect of Face Value on Product Valuation in Foreign Currencies. *Journal of Consumer Research*, 29(3), 335-347. | [10.1086/344430](https://doi.org/10.1086/344430) |
+| **Fehr & Tyran (2001)** | Fehr E, Tyran JR. Does Money Illusion Matter? *American Economic Review*, 91(5), 1239-1262. | [10.1257/aer.91.5.1239](https://doi.org/10.1257/aer.91.5.1239) |
+| **Pelham et al. (1994)** | Pelham BW, Sumarta TT, Myaskovsky L. The Easy Path from Many to Much: The Numerosity Heuristic. *Cognitive Psychology*, 26(2), 103-133. | [10.1006/cogp.1994.1004](https://doi.org/10.1006/cogp.1994.1004) |
+| **Weber & Johnson (2009)** | Weber EU, Johnson EJ. Mindful Judgment and Decision Making. *Annual Review of Psychology*, 60, 53-85. | [10.1146/annurev.psych.60.110707.163633](https://doi.org/10.1146/annurev.psych.60.110707.163633) |
+| **Baron-Cohen (2009)** | Baron-Cohen S. Autism: The Empathizing-Systematizing (E-S) Theory. *Annals NY Academy of Sciences*, 1156(1), 68-80. | [10.1111/j.1749-6632.2009.04467.x](https://doi.org/10.1111/j.1749-6632.2009.04467.x) |
 | **Gul & Pesendorfer (2001)** | Gul F, Pesendorfer W. Temptation and Self-Control. *Econometrica*, 69(6), 1403-1435. | [10.1111/1468-0262.00252](https://doi.org/10.1111/1468-0262.00252) |
 | **Kőszegi & Matejka (2020)** | Kőszegi B, Matejka F. Choice Simplification: A Theory of Mental Budgeting and Naive Diversification. *QJE*, 135(2), 1153-1207. | [10.1093/qje/qjz043](https://doi.org/10.1093/qje/qjz043) |
 | **Barberis, Huang & Santos (2001)** | Barberis N, Huang M, Santos T. Prospect Theory and Asset Prices. *QJE*, 116(1), 1-53. | [10.1162/003355301556310](https://doi.org/10.1162/003355301556310) |
@@ -207,6 +213,12 @@ Where each primary paper is discussed:
 | Graeber (2018) | `ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md` |
 | Illich (1981) | `ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md` |
 | Csikszentmihalyi (1990) | `ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md` |
+| Shafir, Diamond & Tversky (1997) | `core-research/multi-denomination-portfolio-valuation.md`, `debiasing-frameworks/denomination-invariant-evaluation.md`, `research-artifacts/denomination-effects-literature-review.md` |
+| Raghubir & Srivastava (2002) | `core-research/multi-denomination-portfolio-valuation.md`, `debiasing-frameworks/denomination-invariant-evaluation.md`, `research-artifacts/denomination-effects-literature-review.md` |
+| Fehr & Tyran (2001) | `debiasing-frameworks/denomination-invariant-evaluation.md`, `research-artifacts/denomination-effects-literature-review.md` |
+| Pelham et al. (1994) | `debiasing-frameworks/denomination-invariant-evaluation.md`, `research-artifacts/denomination-effects-literature-review.md` |
+| Weber & Johnson (2009) | `core-research/multi-denomination-portfolio-valuation.md` |
+| Baron-Cohen (2009) | `core-research/multi-denomination-portfolio-valuation.md` |
 
 ---
 

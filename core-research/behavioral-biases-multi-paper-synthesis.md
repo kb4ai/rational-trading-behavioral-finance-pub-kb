@@ -203,6 +203,16 @@ Even in De Martino's data, the ASD group still shows some framing effect (just s
 
 ---
 
+## Further Extensions: Denomination as Continuous Framing Dimension
+
+The framing effects documented above (De Martino et al., 2008) operate in a **binary** frame space — gain vs. loss wording. The multi-denomination portfolio valuation framework extends this to a **continuous** framing dimension: the choice among N possible denominations (USD, BTC, gold, CPI-basket, etc.), each generating a different gain/loss classification for the same portfolio state. This is a richer framing space that amplifies the effects documented in this synthesis — the agent has more frames to cherry-pick from, enabling "selective denominator shopping" as a form of hedonic editing.
+
+The disposition effect (Odean, 1998) becomes denomination-dependent: PGR(d) and PLR(d) vary with denomination choice d, and the same position can be a "winner" in one denomination and a "loser" in another — potentially flipping the disposition effect's direction. The neurodivergent advantage (De Martino et al., 2008; Grinblatt et al., 2012) predicts that autistic and high-IQ traders should show higher denomination invariance — lower variance in decision-making across denomination conditions.
+
+See: [multi-denomination-portfolio-valuation.md](multi-denomination-portfolio-valuation.md) for the full mathematical framework and [denomination-invariant-evaluation.md](../debiasing-frameworks/denomination-invariant-evaluation.md) for the practical debiasing protocol.
+
+---
+
 ## References
 
 [1]: https://pubmed.ncbi.nlm.nih.gov/18923049/ "Explaining enhanced logical consistency during decision making in autism - PubMed"

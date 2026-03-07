@@ -13,6 +13,7 @@
 | [Sunk Cost Fallacy](https://yourlogicalfallacyis.com/sunk-cost) | 124% longer holding periods for losers vs winners | [perplexity](research-artifacts/perplexity-deep-research.md) | [YLFI](https://yourlogicalfallacyis.com/sunk-cost) |
 | [Mental Accounting](https://en.wikipedia.org/wiki/Mental_accounting) | Money mentally labeled reduces fungibility; house money g=0.37; payment decoupling drives overspending | [Thaler 1985](core-research/behavioral-biases-multi-paper-synthesis.md#thaler-1985-mental-accountingmoney-gets-labels), [**Comprehensive Analysis**](core-research/mental-accounting-thaler-comprehensive.md) | [Wikipedia](https://en.wikipedia.org/wiki/Mental_accounting) |
 | [Status Quo Bias](https://en.wikipedia.org/wiki/Status_quo_bias) | Disproportionate preference for default/current state | [Samuelson & Zeckhauser 1988](core-research/behavioral-biases-multi-paper-synthesis.md#samuelson--zeckhauser-1988-status-quo-biasdoing-nothing-is-a-powerful-option) | [Wikipedia](https://en.wikipedia.org/wiki/Status_quo_bias) |
+| Single-Denominator Bias | 60-80% evaluate in nominal terms; 15-30% spending errors from face value anchoring; denomination choice flips disposition effect direction | [**Core Paper**](core-research/multi-denomination-portfolio-valuation.md), [**Debiasing Framework**](debiasing-frameworks/denomination-invariant-evaluation.md) | [Money Illusion (Wikipedia)](https://en.wikipedia.org/wiki/Money_illusion) |
 
 ### Debiasing Frameworks
 
@@ -22,6 +23,7 @@
 | Position Sizing | Size = (Balance × Risk%) / (Entry - Stop) | [claude-opus](research-artifacts/claude-opus-4-5-deep-research.md) |
 | VPIN | Order flow toxicity = Σ\|V_buy - V_sell\| / Σ(V_buy + V_sell) | [perplexity](research-artifacts/perplexity-deep-research.md) |
 | Bayesian Updating | P(H\|E) = P(E\|H) × P(H) / P(E) | [claude-opus-clarif](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) |
+| Denomination-Invariant Evaluation | G(t₀,t₁) = min_d{V_d(t₁)/V_d(t₀)}; alert when spread S > 0.10 | [**Framework**](debiasing-frameworks/denomination-invariant-evaluation.md), [**Python impl**](debiasing-frameworks/examples/multi-denomination-tracker.py) |
 
 ### Neurodivergent Advantage Evidence
 
