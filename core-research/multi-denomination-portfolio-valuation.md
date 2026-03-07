@@ -21,7 +21,19 @@ This is not a minor bookkeeping detail. The denomination choice determines:
 
 A portfolio that gained 15% in USD terms may have *lost* 8% in BTC terms during a crypto bull run. The same portfolio, the same period, but two contradictory emotional narratives and potentially two contradictory trading decisions. The denomination frame is doing the work, not the underlying economics.
 
-### 1.2 Three Pathological Patterns
+### 1.2 Empirical Grounding: Money Illusion and Numerosity
+
+The tendency to evaluate in nominal rather than real terms is not a theoretical curiosity — it is the empirical norm. Shafir, Diamond & Tversky (1997) demonstrated that **60–80% of respondents** evaluate transactions in nominal terms, even when real-value information is available. The effect persists among economically trained respondents, though it is moderated by numeric sophistication.
+
+Fehr & Tyran (2001) showed that even small amounts of individual-level money illusion produce **substantial aggregate nominal inertia** — and the effects are asymmetric: negative nominal shocks produce prolonged inertia and real income losses, while positive shocks produce much smaller effects. The framing of the payoff display drove behavior even when participants knew the underlying real values.
+
+The mechanism is deepened by the **numerosity heuristic** (Pelham, Sumarta & Myaskovsky, 1994): people judge quantity based on the *number of units*, without adequately adjusting for unit size. More units → perceived greater quantity, independent of total magnitude. This is a bottom-up perceptual effect that is not eliminated by numerical ability and amplifies under cognitive load and time pressure. In trading contexts: "1,000,000 satoshis" is perceptually *more* than "0.01 BTC" — not logically, but phenomenologically. Under the stress of market volatility, the numerosity heuristic dominates deliberate calculation.
+
+Raghubir & Srivastava (2002) confirmed the financial consequence: individuals' valuation of products in unfamiliar currencies is **anchored to face value** with inadequate exchange-rate adjustment, producing **15–30% spending errors**. Wertenbroch, Soman & Chattopadhyay (2007) further showed that currency numerosity effects are **reference-dependent** — the nominal value of money biases perceived purchasing power in proportion to how it compares against a salient reference point (e.g., budget remaining, prior transactions).
+
+These findings collectively establish that denomination is not a neutral measurement choice. It is a psychologically active frame that systematically distorts valuation.
+
+### 1.3 Three Pathological Patterns
 
 **Denomination anchoring**: The trader selects a single denomination at account inception and never questions it. All subsequent P&L is evaluated in this denomination, creating a fixed reference frame that may diverge arbitrarily from the portfolio's actual multi-dimensional performance. This is a specific instance of anchoring (Tversky & Kahneman, 1974) applied to the numéraire rather than to a price level.
 
@@ -29,13 +41,13 @@ A portfolio that gained 15% in USD terms may have *lost* 8% in BTC terms during 
 
 **Selective denominator shopping**: The most insidious pattern. Traders unconsciously select whichever denomination makes their performance look best. "I'm up in USD!" (while down in gold). "My BTC stack is growing!" (while portfolio net worth in purchasing-power terms has declined). This is hedonic editing (Thaler, 1985) applied to the denomination choice itself — agents segregate favorable framings and suppress unfavorable ones.
 
-### 1.3 Denomination Choice as Frame Selection
+### 1.4 Denomination Choice as Frame Selection
 
 Tversky & Kahneman (1981) demonstrated that logically equivalent descriptions of the same decision problem can reverse preferences. The choice of denomination is precisely such a re-description: the portfolio's objective state is invariant, but the *narrative* changes with the denominator.
 
 Choosing a denomination is choosing which branch of the prospect theory value function v(·) is activated. In denomination d₁, a position may sit in the gain domain (v concave, risk-averse); in denomination d₂, the same position sits in the loss domain (v convex, risk-seeking). The denomination frame can literally flip the trader's risk posture on the same underlying position.
 
-### 1.4 Linguistic Markers
+### 1.5 Linguistic Markers
 
 These utterances reveal active denomination bias:
 
@@ -248,6 +260,8 @@ If V_d(t) > r_d: gain domain, v concave, moderate positive hedonic signal.
 If V_d(t) < r_d: loss domain, v convex, λ-amplified negative hedonic signal.
 
 Since V_d(t) > r_d and V_d'(t) < r_d' can hold simultaneously for different denominations d, d', the trader's emotional state is literally a function of which denomination they are looking at. **The reference point is not a property of the position — it is a property of the denomination frame.**
+
+**Novel contribution — Competing Reference Points**: Standard prospect theory assumes a *single* reference point. This is adequate for binary gain/loss framing (De Martino's "keep £20" vs. "lose £30") but breaks down for multi-denomination portfolios. A trader simultaneously holding positions expressible in N denominations confronts **N competing reference points**, each inducing a potentially different gain/loss classification of the same position. No existing formal model in the behavioral finance literature addresses how these N reference points compete, combine, or resolve (see Gaps 3 and 6 in the denomination effects literature review). The multi-denomination framework developed here is, to our knowledge, the first to model N-simultaneous denomination evaluation and its behavioral consequences. The key prediction: agents will resolve the competition by attending to whichever reference point produces the most hedonically favorable evaluation — a form of endogenous reference point selection that amplifies, rather than mitigates, the biases documented by Kahneman & Tversky (1979).
 
 ### 4.5 Denomination-Dependent Disposition Effect
 
@@ -532,6 +546,9 @@ G forces an honest assessment: if G_portfolio > G_benchmark > 1, the strategy ge
 | **Grinblatt et al. (2012)** | Grinblatt M, Keloharju M, Linnainmaa J. IQ, Trading Behavior, and Performance. *J. Financial Economics*, 104(2), 339-362. | [10.1016/j.jfineco.2011.05.016](https://doi.org/10.1016/j.jfineco.2011.05.016) |
 | **Baron-Cohen (2009)** | Baron-Cohen S. Autism: The Empathizing-Systematizing (E-S) Theory. *Annals NY Acad. Sci.*, 1156(1), 68-80. | [10.1111/j.1749-6632.2009.04467.x](https://doi.org/10.1111/j.1749-6632.2009.04467.x) |
 | **Tversky & Kahneman (1974)** | Tversky A, Kahneman D. Judgment under Uncertainty: Heuristics and Biases. *Science*, 185(4157), 1124-1131. | [10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124) |
+| **Fehr & Tyran (2001)** | Fehr E, Tyran J-R. Does Money Illusion Matter? *American Economic Review*, 91(5), 1239-1262. | [10.1257/aer.91.5.1239](https://doi.org/10.1257/aer.91.5.1239) |
+| **Pelham, Sumarta & Myaskovsky (1994)** | Pelham BW, Sumarta TT, Myaskovsky L. The Easy Path from Many to Much: The Numerosity Heuristic. *Cognitive Psychology*, 26(2), 103-133. | [10.1006/cogp.1994.1004](https://doi.org/10.1006/cogp.1994.1004) |
+| **Wertenbroch, Soman & Chattopadhyay (2007)** | Wertenbroch K, Soman D, Chattopadhyay A. On the Perceived Value of Money: The Reference Dependence of Currency Numerosity Effects. *J. Consumer Research*, 34(1), 1-10. | [10.1086/513041](https://doi.org/10.1086/513041) |
 
 ---
 
@@ -543,5 +560,7 @@ G forces an honest assessment: if G_portfolio > G_benchmark > 1, the strategy ge
 * [behavioral-biases-multi-paper-synthesis.md](behavioral-biases-multi-paper-synthesis.md) — Multi-paper synthesis establishing the shared mechanism of context-dependent framing; denomination as a continuous framing dimension
 * [BIBLIOGRAPHY.md](../BIBLIOGRAPHY.md) — Master bibliography for the KB
 * [KB-ROUTING.md](../KB-ROUTING.md) — Navigation routing for the knowledge base
+
+*Literature review: [`research-artifacts/denomination-effects-literature-review.md`](../research-artifacts/denomination-effects-literature-review.md) — Comprehensive review of money illusion, numerosity heuristic, face value effects, and identified research gaps*
 
 *Implementation: [`debiasing-frameworks/examples/multi-denomination-tracker.py`](../debiasing-frameworks/examples/multi-denomination-tracker.py)*
