@@ -2,7 +2,7 @@
 
 Central reference for all academic papers cited in this knowledge base.
 
-[Last updated: 2026-03-07]
+[Last updated: 2026-03-13]
 
 ## Primary Research Papers
 
@@ -25,6 +25,17 @@ Complete citations with DOI links for papers directly analyzed in this repositor
 | **Tversky & Kahneman (1992)** | Tversky A, Kahneman D. Advances in Prospect Theory: Cumulative Representation of Uncertainty. *J. Risk Uncertainty*, 5(4), 297-323. | [10.1007/BF00122574](https://doi.org/10.1007/BF00122574) |
 | **Paul, Parker & Dommer (2023)** | Paul I, Parker JR, Dommer SL. Role Integration Increases the Fungibility of Mentally Accounted Funds. *J. Marketing Research*, 60(2), 263-277. | [10.1177/00222437221112058](https://doi.org/10.1177/00222437221112058) |
 | **Samuelson & Zeckhauser (1988)** | Samuelson W, Zeckhauser R. Status quo bias in decision making. *Journal of Risk and Uncertainty*, 1(1), 7-59. | [10.1007/BF00055564](https://doi.org/10.1007/BF00055564) |
+| **Spranca, Minsk & Baron (1991)** | Spranca M, Minsk E, Baron J. Omission and commission in judgment and choice. *Journal of Experimental Social Psychology*, 27(1), 76–105. | [10.1016/0022-1031(91)90011-T](https://doi.org/10.1016/0022-1031(91)90011-T) |
+| **Ritov & Baron (1990)** | Ritov I, Baron J. Reluctance to vaccinate: Omission bias and ambiguity. *Journal of Behavioral Decision Making*, 3(4), 263–277. | [10.1002/bdm.3960030404](https://doi.org/10.1002/bdm.3960030404) |
+| **Ritov & Baron (1992)** | Ritov I, Baron J. Status-quo and omission biases. *Journal of Risk and Uncertainty*, 5(1), 49–61. | [10.1007/BF00208786](https://doi.org/10.1007/BF00208786) |
+| **Tykocinski & Pittman (1998)** | Tykocinski OE, Pittman TS. The consequences of doing nothing: Inaction inertia as avoidance of anticipated counterfactual regret. *Journal of Personality and Social Psychology*, 75(3), 607–616. | [10.1037/0022-3514.75.3.607](https://doi.org/10.1037/0022-3514.75.3.607) |
+| **Tykocinski & Pittman (2001)** | Tykocinski OE, Pittman TS. Regret, valuation, and inaction inertia. *Organizational Behavior and Human Decision Processes*, 84(2), 281–292. | [10.1006/obhd.2000.2919](https://doi.org/10.1006/obhd.2000.2919) |
+| **Tykocinski (2004)** | Tykocinski OE. Inaction inertia in the stock market. *Journal of Applied Social Psychology*, 34(6), 1166–1175. | [10.1111/j.1559-1816.2004.tb02001.x](https://doi.org/10.1111/j.1559-1816.2004.tb02001.x) |
+| **Madrian & Shea (2001)** | Madrian BC, Shea DF. The power of suggestion: Inertia in 401(k) participation and savings behavior. *Quarterly Journal of Economics*, 116(4), 1149–1187. | [10.1162/003355301753265543](https://doi.org/10.1162/003355301753265543) |
+| **Choi, Laibson, Madrian & Metrick (2004)** | Choi JJ, Laibson D, Madrian BC, Metrick A. For better or for worse: Default effects and 401(k) savings behavior. In Wise DA (Ed.), *Perspectives on the Economics of Aging*, 81–121. University of Chicago Press. | [10.3386/w8651](https://doi.org/10.3386/w8651) |
+| **French & Poterba (1991)** | French KR, Poterba JM. Investor diversification and international equity markets. *American Economic Review*, 81(2), 222–226. | [10.3386/w3609](https://doi.org/10.3386/w3609) |
+| **Benartzi & Thaler (2004)** | Benartzi S, Thaler RH. Save more tomorrow: Using behavioral economics to increase employee saving. *Journal of Political Economy*, 112(S1), S164–S187. | [10.1086/380085](https://doi.org/10.1086/380085) |
+| **Kahneman, Knetsch & Thaler (1991)** | Kahneman D, Knetsch JL, Thaler RH. Anomalies: The endowment effect, loss aversion, and status quo bias. *Journal of Economic Perspectives*, 5(1), 193–206. | [10.1257/jep.5.1.193](https://doi.org/10.1257/jep.5.1.193) |
 | **Yafai et al. (2014)** | Yafai AF, Verrier D, Reidy L. Social conformity and autism spectrum disorder: A child-friendly take on a classic study. *Autism*, 18(8), 1007-1013. | [10.1177/1362361313508023](https://doi.org/10.1177/1362361313508023) |
 | **Prelec & Simester (2001)** | Prelec D, Simester D. Always Leave Home Without It: A Further Investigation of the Credit-Card Effect on Willingness to Pay. *Marketing Letters*, 12(1), 5-12. | [10.1023/A:1008196717017](https://doi.org/10.1023/A:1008196717017) |
 | **Rabin & Weizsäcker (2009)** | Rabin M, Weizsäcker G. Narrow Bracketing and Dominated Choices. *American Economic Review*, 99(4), 1508-1543. | [10.1257/aer.99.4.1508](https://doi.org/10.1257/aer.99.4.1508) |

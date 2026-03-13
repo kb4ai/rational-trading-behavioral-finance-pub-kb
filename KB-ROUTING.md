@@ -12,8 +12,11 @@
 | [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias) | 85% disposed to accepting confirming opinions | [claude-opus-clarif](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) | [Wikipedia](https://en.wikipedia.org/wiki/Confirmation_bias) |
 | [Sunk Cost Fallacy](https://yourlogicalfallacyis.com/sunk-cost) | 124% longer holding periods for losers vs winners | [perplexity](research-artifacts/perplexity-deep-research.md) | [YLFI](https://yourlogicalfallacyis.com/sunk-cost) |
 | [Mental Accounting](https://en.wikipedia.org/wiki/Mental_accounting) | Money mentally labeled reduces fungibility; house money g=0.37; payment decoupling drives overspending | [Thaler 1985](core-research/behavioral-biases-multi-paper-synthesis.md#thaler-1985-mental-accountingmoney-gets-labels), [**Comprehensive Analysis**](core-research/mental-accounting-thaler-comprehensive.md) | [Wikipedia](https://en.wikipedia.org/wiki/Mental_accounting) |
-| [Status Quo Bias](https://en.wikipedia.org/wiki/Status_quo_bias) | Disproportionate preference for default/current state | [Samuelson & Zeckhauser 1988](core-research/behavioral-biases-multi-paper-synthesis.md#samuelson--zeckhauser-1988-status-quo-biasdoing-nothing-is-a-powerful-option) | [Wikipedia](https://en.wikipedia.org/wiki/Status_quo_bias) |
+| [Status Quo Bias](https://en.wikipedia.org/wiki/Status_quo_bias) | Disproportionate preference for default/current state; WTA/WTP ratio ≈ 2.1–2.3; 401k default inertia: 76% stick at 3% vs optimal 6%+ | [Samuelson & Zeckhauser 1988](core-research/behavioral-biases-multi-paper-synthesis.md#samuelson--zeckhauser-1988-status-quo-biasdoing-nothing-is-a-powerful-option), [**Full Analysis**](core-research/omission-status-quo-inaction-inertia-trading.md) | [Wikipedia](https://en.wikipedia.org/wiki/Status_quo_bias) |
+| Omission Bias | Harmful omissions rated less blameworthy than equivalent commissions; d = 0.40–0.53; omission preference 72% vs status quo 51% — distinct constructs (Ritov & Baron 1992) | [**Full Analysis**](core-research/omission-status-quo-inaction-inertia-trading.md) | [Spranca et al. 1991](https://www.sciencedirect.com/science/article/pii/002210319190011T) |
+| Inaction Inertia | Missed superior opportunity → reduced probability of acting on still-positive inferior opportunity; stock market: missed gain exit → less likely to exit at grave loss | [**Full Analysis**](core-research/omission-status-quo-inaction-inertia-trading.md) | [Tykocinski 2004](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.2004.tb02001.x) |
 | Single-Denominator Bias | 60-80% evaluate in nominal terms; 15-30% spending errors from face value anchoring; denomination choice flips disposition effect direction | [**Core Paper**](core-research/multi-denomination-portfolio-valuation.md), [**Debiasing Framework**](debiasing-frameworks/denomination-invariant-evaluation.md) | [Money Illusion (Wikipedia)](https://en.wikipedia.org/wiki/Money_illusion) |
+| Opportunity Cost Neglect | Forgone alternatives underweighted because implicit; d=0.22 meta-analytic (d=0.45–0.85 seminal); 20pp purchase-rate shift on OC reminder; both overtrading (−6.5%/yr) and under-trading ($170k/career missed match) are OCN instantiations | [**Full Analysis**](core-research/opportunity-cost-neglect-in-trading.md) | [Frederick et al. 2009](https://doi.org/10.1086/599764) |
 
 ### Debiasing Frameworks
 
@@ -24,6 +27,9 @@
 | VPIN | Order flow toxicity = Σ\|V_buy - V_sell\| / Σ(V_buy + V_sell) | [perplexity](research-artifacts/perplexity-deep-research.md) |
 | Bayesian Updating | P(H\|E) = P(E\|H) × P(H) / P(E) | [claude-opus-clarif](research-artifacts/claude-opus-4-5-deep-research-with-clarifications.md) |
 | Denomination-Invariant Evaluation | G(t₀,t₁) = min_d{V_d(t₁)/V_d(t₀)}; alert when spread S > 0.10 | [**Framework**](debiasing-frameworks/denomination-invariant-evaluation.md), [**Python impl**](debiasing-frameworks/examples/multi-denomination-tracker.py) |
+| Hypothetical Cash Reframe | Converts hold/sell (omission framing) to buy/not-buy (commission framing); eliminates act-omit asymmetry; restores WTA/WTP ratio → 1.0 | [**Omission/Inaction Framework**](core-research/omission-status-quo-inaction-inertia-trading.md#71-the-hypothetical-cash-reframe-highest-empirical-support) | KKT 1991 |
+| Inaction Justification Log | Forces documented active commission decision for each held position; symmetric dual-path checklist | [**Protocol**](core-research/omission-status-quo-inaction-inertia-trading.md#72-forced-periodic-review-with-inaction-justification-requirement) | |
+| Pre-Mortem for Non-Action | "Imagine I did NOT act; portfolio -15%: what mechanism?" — prospective hindsight improves outcome identification 30% (Klein 1998) | [**Protocol**](core-research/omission-status-quo-inaction-inertia-trading.md#73-pre-mortem-for-non-action-decisions) | |
 
 ### Neurodivergent Advantage Evidence
 
@@ -81,7 +87,14 @@
    - Best for: The mathematically rigorous "polymath's view" — why rational entities see no distinction between "savings" and "spending money"; why every voluntary exchange is a neutral transformation, not a loss
    - Source: Claude Opus 4.6 synthesis, 2026-02-27
 
-5. **[mental-accounting-cognitive-science-parallels.md](core-research/mental-accounting-cognitive-science-parallels.md)**
+5. **[omission-status-quo-inaction-inertia-trading.md](core-research/omission-status-quo-inaction-inertia-trading.md)**
+   - Focus: Empirical synthesis of omission bias, status quo bias, and inaction inertia in trading/investment contexts
+   - Papers covered: Spranca et al. (1991), Ritov & Baron (1990, 1992), Samuelson & Zeckhauser (1988), KKT (1991), Madrian & Shea (2001), Choi et al. (2004), Tykocinski & Pittman (1998, 2001), Tykocinski (2004), Benartzi & Thaler (1995), French & Poterba (1991), Barber & Odean (2000)
+   - Key sections: Formal separation of omission vs status quo bias (72% vs 51%); 401(k) inertia quantification; inaction inertia stock market mechanism; aggregate cost table; six debiasing protocols including hypothetical cash reframe, inaction justification log, pre-mortem for non-action
+   - Best for: Understanding why holding/not-acting is cognitively asymmetric; practical debiasing protocols for inaction-type biases
+   - Source: Claude Sonnet 4.6 web research, 2026-03-13
+
+6. **[mental-accounting-cognitive-science-parallels.md](core-research/mental-accounting-cognitive-science-parallels.md)**
    - Focus: Mental accounting grounded in 7 major cognitive science frameworks
    - Frameworks covered: Dual-process theory (Kahneman, Evans, Stanovich tripartite model), bounded rationality (Simon satisficing), ecological rationality (Gigerenzer adaptive toolbox), cognitive load (Miller 7±2, Sweller), attention economics (Kahneman 1973, Sims rational inattention, Kőszegi-Matejka water-filling), construal level theory (Trope & Liberman), schema theory (Bartlett, Zelizer), embodied cognition (Lakoff & Johnson conceptual metaphor, Barsalou grounded cognition)
    - Key sections: Integrated 6-level mechanistic model, MONEY IS WATER metaphor analysis, debiasing implications across all levels
@@ -119,6 +132,8 @@
 | Claude | Sonnet 4.6 | Mental accounting comprehensive: Thaler framework, hedonic editing, institutional exploitation | [mental-accounting-thaler-comprehensive.md](core-research/mental-accounting-thaler-comprehensive.md) |
 | Claude | Opus 4.6 | Fungibility axiom: spending as asset transformation, rational entity model, game theory | [fungibility-asset-transformation-rational-framework.md](core-research/fungibility-asset-transformation-rational-framework.md) |
 | Claude | Sonnet 4.6 | Mental accounting grounded in 7 cognitive science frameworks | [mental-accounting-cognitive-science-parallels.md](core-research/mental-accounting-cognitive-science-parallels.md) |
+| Claude | Sonnet 4.6 | Omission bias, status quo bias, inaction inertia: empirical synthesis + debiasing protocols | [omission-status-quo-inaction-inertia-trading.md](core-research/omission-status-quo-inaction-inertia-trading.md) |
+| Claude | Sonnet 4.6 | Opportunity cost neglect: full academic synthesis, 16 papers, action/omission asymmetry, quantified costs, debiasing protocols | [opportunity-cost-neglect-in-trading.md](core-research/opportunity-cost-neglect-in-trading.md) |
 
 ## Research Artifacts Index
 
@@ -219,6 +234,8 @@
 | mental-accounting-thaler-comprehensive.md | 2026-02-27 | Anthropic | Claude Sonnet 4.6 |
 | fungibility-asset-transformation-rational-framework.md | 2026-02-27 | Anthropic | Claude Opus 4.6 |
 | mental-accounting-cognitive-science-parallels.md | 2026-02-27 | Anthropic | Claude Sonnet 4.6 |
+| omission-status-quo-inaction-inertia-trading.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
+| opportunity-cost-neglect-in-trading.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
 
 ## Future Development
 
