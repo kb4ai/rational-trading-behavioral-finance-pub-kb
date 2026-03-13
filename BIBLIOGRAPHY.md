@@ -2,7 +2,7 @@
 
 Central reference for all academic papers cited in this knowledge base.
 
-[Last updated: 2026-03-13]
+[Last updated: 2026-03-13 — added quant trading section: 26 new papers]
 
 ## Primary Research Papers
 
@@ -127,6 +127,37 @@ Complete citations with DOI links for papers directly analyzed in this repositor
 | **Lakoff & Johnson (1999)** | Lakoff G, Johnson M. *Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought*. Basic Books. | — |
 | **Jostmann, Lakens & Schubert (2009)** | Jostmann NB, Lakens D, Schubert TW. Weight as an Embodiment of Importance. *Psychological Science*, 20(9), 1169-1174. | [10.1111/j.1467-9280.2009.02426.x](https://doi.org/10.1111/j.1467-9280.2009.02426.x) |
 | **Barsalou (2008)** | Barsalou LW. Grounded Cognition. *Annual Review of Psychology*, 59, 617-645. | [10.1146/annurev.psych.59.103006.093629](https://doi.org/10.1146/annurev.psych.59.103006.093629) |
+
+### Quantitative Trading, Execution, and Systematic Strategies
+
+| Citation | Full Reference | DOI / Source |
+|----------|----------------|-----|
+| **Almgren & Chriss (2000)** | Almgren R, Chriss N. Optimal Execution of Portfolio Transactions. *Journal of Risk*, 3, 5–39. | [smallake.kr/wp-content/uploads/2016/03/optliq.pdf](https://www.smallake.kr/wp-content/uploads/2016/03/optliq.pdf) |
+| **Perold (1988)** | Perold AF. The Implementation Shortfall: Paper versus Reality. *Journal of Portfolio Management*, 14(3), 4–9. | — |
+| **Kissell & Glantz (2003)** | Kissell R, Glantz M. *Optimal Trading Strategies: Quantitative Approaches for Managing Market Impact and Trading Risk*. AMACOM. | ISBN 0814407242 |
+| **Davis & Norman (1990)** | Davis MHA, Norman AR. Portfolio Selection with Transaction Costs. *Mathematics of Operations Research*, 15(4), 676–713. | [10.1287/moor.15.4.676](https://doi.org/10.1287/moor.15.4.676) |
+| **Leland (1996)** | Leland HE. Optimal Asset Rebalancing in the Presence of Transactions. *SSRN 1060*. | [ssrn.com/abstract=1060](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1060) |
+| **DeMiguel, Garlappi & Uppal (2009)** | DeMiguel V, Garlappi L, Uppal R. Optimal Versus Naive Diversification: How Inefficient Is the 1/N Portfolio Strategy? *Review of Financial Studies*, 22(5), 1915–1953. | [10.1093/rfs/hhm075](https://doi.org/10.1093/rfs/hhm075) |
+| **Novy-Marx & Velikov (2016)** | Novy-Marx R, Velikov M. A Taxonomy of Anomalies and Their Trading Costs. *Review of Financial Studies*, 29(1), 104–147. | [10.1093/rfs/hhv063](https://doi.org/10.1093/rfs/hhv063) |
+| **Gârleanu & Pedersen (2013)** | Gârleanu N, Pedersen LH. Dynamic Trading with Predictable Returns and Transaction Costs. *Journal of Finance*, 68(6), 2309–2340. | [10.1111/jofi.12080](https://doi.org/10.1111/jofi.12080) |
+| **Frazzini, Israel & Moskowitz (2015)** | Frazzini A, Israel R, Moskowitz TJ. Trading Costs of Asset Pricing Anomalies. *AQR Working Paper*. | [aqr.com/Insights/Research/Working-Paper/Trading-Costs-of-Asset-Pricing-Anomalies](https://www.aqr.com/Insights/Research/Working-Paper/Trading-Costs-of-Asset-Pricing-Anomalies) |
+| **Frazzini, Israel & Moskowitz (2018)** | Frazzini A, Israel R, Moskowitz TJ. Trading Costs. *SSRN 3229719*. | [ssrn.com/abstract=3229719](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3229719) |
+| **Jegadeesh & Titman (1993)** | Jegadeesh N, Titman S. Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency. *Journal of Finance*, 48(1), 65–91. | [10.2307/2328882](https://doi.org/10.2307/2328882) |
+| **Jegadeesh & Titman (2023)** | Jegadeesh N, Titman S. Momentum: Evidence and Insights 30 Years Later. *SSRN 4602426*. | [ssrn.com/abstract=4602426](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602426) |
+| **Moskowitz, Ooi & Pedersen (2012)** | Moskowitz TJ, Ooi YH, Pedersen LH. Time Series Momentum. *Journal of Financial Economics*, 104(2), 228–250. | [10.1016/j.jfinec.2011.11.003](https://doi.org/10.1016/j.jfinec.2011.11.003) |
+| **Di Mascio, Lines & Naik (2015)** | Di Mascio R, Lines A, Naik NY. Alpha Decay. *SSRN 2580551*. | [ssrn.com/abstract=2580551](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2580551) |
+| **Bouchaud, Gefen, Potters & Wyart (2004)** | Bouchaud JP, Gefen Y, Potters M, Wyart M. Fluctuations and Response in Financial Markets: The Subtle Nature of "Random" Price Changes. *Quantitative Finance*, 4(2), 176–190. | [10.1080/14697680400000022](https://doi.org/10.1080/14697680400000022) |
+| **Cont (2001)** | Cont R. Empirical Properties of Asset Returns: Stylized Facts and Statistical Issues. *Quantitative Finance*, 1(2), 223–236. | [10.1080/713665670](https://doi.org/10.1080/713665670) |
+| **Jiang, Xu & Liang (2017)** | Jiang Z, Xu D, Liang J. A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem. *arXiv: 1706.10059*. | [arxiv.org/abs/1706.10059](https://arxiv.org/abs/1706.10059) |
+| **Hamilton (1989)** | Hamilton JD. A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle. *Econometrica*, 57(2), 357–384. | [10.2307/1912559](https://doi.org/10.2307/1912559) |
+| **Ma & Smith (2025)** | Ma C, Smith P. On the Effect of Alpha Decay and Transaction Costs on the Multi-period Optimal Trading Strategy. *arXiv: 2502.04284*. | [arxiv.org/abs/2502.04284](https://arxiv.org/abs/2502.04284) |
+| **Thorp (2007)** | Thorp EO. The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market. In MacLean, Thorp & Ziemba (Eds.), *The Kelly Capital Growth Investment Criterion*. World Scientific. | [web.williams.edu/Mathematics/sjmiller/public_html/341/handouts/Thorpe_KellyCriterion2007.pdf](https://web.williams.edu/Mathematics/sjmiller/public_html/341/handouts/Thorpe_KellyCriterion2007.pdf) |
+| **Hambly, Xu & Yang (2024)** | Hambly B, Xu R, Yang H. The Evolution of Reinforcement Learning in Quantitative Finance: A Survey. *arXiv: 2408.10932*. | [arxiv.org/abs/2408.10932](https://arxiv.org/abs/2408.10932) |
+| **López de Prado (2018)** | López de Prado M. *Advances in Financial Machine Learning*. Wiley. | ISBN 9781119482086 |
+| **Zuckerman (2019)** | Zuckerman G. *The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution*. Portfolio/Penguin. | ISBN 9780735217980 |
+| **Vanguard Research (2024)** | Vanguard Research. The Rebalancing Edge: Optimizing Target-Date Fund Rebalancing Through Threshold-Based Strategies. *Vanguard Institutional*. | [corporate.vanguard.com](https://corporate.vanguard.com/content/dam/corp/research/pdf/the_rebalancing_edge_optimizing_target_date_fund_rebalancing_through_threshold_based_strategies.pdf) |
+| **Chiyachantana & Jain (2008)** | Chiyachantana CN, Jain PK. The Opportunity Cost of Inaction in Financial Markets: An Analysis of Institutional Decisions and Trades. *SSRN 1220582*. | [ssrn.com/abstract=1220582](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1220582) |
+| **Asness, Moskowitz & Pedersen (2013)** | Asness CS, Moskowitz TJ, Pedersen LH. Value and Momentum Everywhere. *Journal of Finance*, 68(3), 929–985. | [10.1111/jofi.12021](https://doi.org/10.1111/jofi.12021) |
 
 ## Foundational Theory Papers
 

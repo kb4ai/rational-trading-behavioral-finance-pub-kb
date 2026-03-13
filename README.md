@@ -104,6 +104,10 @@ Behavioral biases function as wealth transfer mechanisms from neurotypical retai
 * **[KB-ROUTING.md](KB-ROUTING.md)** — Full document index, research sources by AI provider, bias taxonomy, debiasing frameworks, cross-KB navigation
 * **[BIBLIOGRAPHY.md](BIBLIOGRAPHY.md)** — Central reference for all 55+ academic papers with DOI links and cross-reference index
 
+### For Quantitative Traders
+
+* **[Quant Models of Inaction Cost](core-research/quant-models-inaction-cost-systematic-trading.md)** — The full formal-model treatment: Almgren-Chriss execution frontier, Perold IS decomposition, Davis-Norman no-trade zone (formula for band width), Garleanu-Pedersen aim portfolio (closed-form optimal trading rate), alpha decay empirics (5.6% US / 9.9% EU annual cost of delay), RL portfolio management, momentum alpha supply, Kelly under-betting cost, Renaissance/AQR/López de Prado practitioner perspectives. This is the most important document for the target audience.
+
 ## External Resources
 
 ### Logical Fallacies & Cognitive Biases

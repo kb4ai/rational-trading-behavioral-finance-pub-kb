@@ -165,6 +165,7 @@
 | Claude | Sonnet 4.6 | Stoic inaction-as-action: prohairesis, Sartre bad faith, reversal test, Buffett/Munger/Taleb, philosophical-decision-theory synthesis | [stoic-inaction-as-action-framework.md](core-research/stoic-inaction-as-action-framework.md) |
 | Claude | Sonnet 4.6 | Cognitive science of inaction: 6-layer neural/attentional/computational mechanistic model; 26 papers including fMRI (Greene, Cushman, Coricelli, Nicolle), rational inattention (Sims, Huang), ostrich effect, CRT (Frederick), affordance competition (Cisek), metacognition (Fleming) | [cognitive-science-inaction-neural-attentional-mechanisms.md](core-research/cognitive-science-inaction-neural-attentional-mechanisms.md) |
 | Claude | Opus 4.6 | Symmetric action-inaction evaluator: N-dimensional decision framework, Kelly inaction pricing, real options, minimax regret | [symmetric-action-inaction-evaluator.md](debiasing-frameworks/symmetric-action-inaction-evaluator.md) |
+| Claude | Sonnet 4.6 | **Quant models of inaction cost**: Almgren-Chriss (2000) execution frontier, Perold (1988) implementation shortfall, Davis-Norman (1990) no-trade zone, Garleanu-Pedersen (2013) aim portfolio, alpha decay empirics (5.6% US / 9.9% EU annual cost), RL portfolio management (Jiang 2017), momentum (J&T 1993, TSMOM 2012), Kelly/Thorp, Renaissance, AQR, López de Prado | [quant-models-inaction-cost-systematic-trading.md](core-research/quant-models-inaction-cost-systematic-trading.md) |
 
 ## Research Artifacts Index
 
@@ -270,6 +271,7 @@
 | stoic-inaction-as-action-framework.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
 | symmetric-action-inaction-evaluator.md | 2026-03-13 | Anthropic | Claude Opus 4.6 |
 | cognitive-science-inaction-neural-attentional-mechanisms.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
+| quant-models-inaction-cost-systematic-trading.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
 
 ## Future Development
 
