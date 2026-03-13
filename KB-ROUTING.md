@@ -87,6 +87,13 @@
    - Best for: The mathematically rigorous "polymath's view" — why rational entities see no distinction between "savings" and "spending money"; why every voluntary exchange is a neutral transformation, not a loss
    - Source: Claude Opus 4.6 synthesis, 2026-02-27
 
+5b. **[opportunity-cost-neglect-in-trading.md](core-research/opportunity-cost-neglect-in-trading.md)**
+   - Focus: Comprehensive academic synthesis of opportunity cost neglect (OCN) in financial decisions
+   - Papers covered: Frederick et al. (2009), Spiller (2011), Plantinga et al. (2018), Thoma et al. meta-analysis (2023), Ritov & Baron (1992), Bar-Eli et al. (2007), Yeung et al. meta-analysis (2022), Samuelson & Zeckhauser (1988), Madrian & Shea (2001), Choi et al. (2004), Agnew et al. (2003), Barber & Odean (2000, 2001), Sicherman et al. (2016), Tykocinski & Pittman (1998), Haghpour et al. (2022)
+   - Key sections: OCN formal framing, action/omission bias asymmetry, status quo bias as structural OCN, quantified costs (−6.5%/yr overtrading; $170k/career missed employer match; 70–140bp/yr cash drag), Kelly framework treating inaction as a priced decision, 7 debiasing protocols
+   - Best for: Understanding that both overtrading and under-trading are OCN; Kelly-based cost accounting for inaction; intervention protocols for making foregone alternatives explicit
+   - Source: Claude Sonnet 4.6 web research, 2026-03-13
+
 5. **[omission-status-quo-inaction-inertia-trading.md](core-research/omission-status-quo-inaction-inertia-trading.md)**
    - Focus: Empirical synthesis of omission bias, status quo bias, and inaction inertia in trading/investment contexts
    - Papers covered: Spranca et al. (1991), Ritov & Baron (1990, 1992), Samuelson & Zeckhauser (1988), KKT (1991), Madrian & Shea (2001), Choi et al. (2004), Tykocinski & Pittman (1998, 2001), Tykocinski (2004), Benartzi & Thaler (1995), French & Poterba (1991), Barber & Odean (2000)

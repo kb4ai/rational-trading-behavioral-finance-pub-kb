@@ -57,6 +57,25 @@ Complete citations with DOI links for papers directly analyzed in this repositor
 | **Sims (2003)** | Sims CA. Implications of Rational Inattention. *J. Monetary Economics*, 50(3), 665-690. | [10.1016/S0304-3932(03)00029-1](https://doi.org/10.1016/S0304-3932(03)00029-1) |
 | **Kőszegi & Rabin (2006)** | Kőszegi B, Rabin M. A Model of Reference-Dependent Preferences. *QJE*, 121(4), 1133-1165. | [10.1093/qje/121.4.1133](https://doi.org/10.1093/qje/121.4.1133) |
 
+### Opportunity Cost Neglect & Action/Omission Bias
+
+| Citation | Full Reference | DOI |
+|----------|----------------|-----|
+| **Frederick et al. (2009)** | Frederick S, Novemsky N, Wang J, Dhar R, Nowlis S. Opportunity Cost Neglect. *Journal of Consumer Research*, 36(4), 553–561. | [10.1086/599764](https://doi.org/10.1086/599764) |
+| **Spiller (2011)** | Spiller SA. Opportunity Cost Consideration. *Journal of Consumer Research*, 38(4), 595–610. | [10.1086/660045](https://doi.org/10.1086/660045) |
+| **Plantinga et al. (2018)** | Plantinga A, van den Berg W, Brakeboer H. Evidence for Opportunity Cost Neglect in the Poor. *Journal of Behavioral Decision Making*, 31(3), 411–422. | [10.1002/bdm.2041](https://doi.org/10.1002/bdm.2041) |
+| **Thoma et al. (2023)** | Thoma V et al. Opportunity cost neglect: a meta-analysis. *Journal of the Economic Science Association*, 9(2), 176–192. | [10.1007/s40881-023-00134-6](https://doi.org/10.1007/s40881-023-00134-6) |
+| **Haghpour et al. (2022)** | Haghpour B, Garaus M, Garaus E. Opportunity cost in consumer behavior: Definitions, operationalizations, and ambiguities. *International Journal of Consumer Studies*, 46(5), 1680–1698. | [10.1111/ijcs.12842](https://doi.org/10.1111/ijcs.12842) |
+| **Ritov & Baron (1992)** | Ritov I, Baron J. Status-quo and omission biases. *Journal of Risk and Uncertainty*, 5(1), 49–61. | [10.1007/BF00208786](https://doi.org/10.1007/BF00208786) |
+| **Bar-Eli et al. (2007)** | Bar-Eli M, Azar OH, Ritov I, Keidar-Levin Y, Schein G. Action bias among elite soccer goalkeepers: The case of penalty kicks. *Journal of Economic Psychology*, 28(5), 606–621. | [10.1016/j.joep.2006.12.001](https://doi.org/10.1016/j.joep.2006.12.001) |
+| **Yeung, Yay & Feldman (2022)** | Yeung SK, Yay T, Feldman G. Action and inaction in moral judgments and decisions: Meta-analysis of omission bias omission-commission asymmetries. *Personality and Social Psychology Bulletin*, 48(10), 1499–1512. | [10.1177/01461672211042315](https://doi.org/10.1177/01461672211042315) |
+| **Madrian & Shea (2001)** | Madrian BC, Shea DF. The power of suggestion: Inertia in 401(k) participation and savings behavior. *Quarterly Journal of Economics*, 116(4), 1149–1187. | [10.1162/003355301753265543](https://doi.org/10.1162/003355301753265543) |
+| **Choi, Laibson, Madrian & Metrick (2004)** | Choi JJ, Laibson D, Madrian BC, Metrick A. For better or for worse: Default effects and 401(k) savings behavior. In Wise DA (Ed.), *Perspectives in the Economics of Aging*. U Chicago Press. NBER WP 8651. | — |
+| **Agnew, Balduzzi & Sundén (2003)** | Agnew J, Balduzzi P, Sundén A. Portfolio choice and trading in a large 401(k) plan. *American Economic Review*, 93(1), 193–215. | [10.1257/000282803321455223](https://doi.org/10.1257/000282803321455223) |
+| **Barber & Odean (2001)** | Barber BM, Odean T. Boys will be boys: Gender, overconfidence, and common stock investment. *Quarterly Journal of Economics*, 116(1), 261–292. | [10.1162/003355301556400](https://doi.org/10.1162/003355301556400) |
+| **Sicherman et al. (2016)** | Sicherman N, Loewenstein G, Seppi DJ, Utkus SP. Financial attention. *Review of Financial Studies*, 29(4), 863–897. | [10.1093/rfs/hhw012](https://doi.org/10.1093/rfs/hhw012) |
+| **Tykocinski & Pittman (1998)** | Tykocinski OE, Pittman TS. The consequences of doing nothing: Inaction inertia as avoidance of anticipated counterfactual regret. *Journal of Personality and Social Psychology*, 75(3), 607–616. | [10.1037/0022-3514.75.3.607](https://doi.org/10.1037/0022-3514.75.3.607) |
+
 ### Cognitive Science Parallels
 
 | Citation | Full Reference | DOI |
