@@ -2,7 +2,7 @@
 
 Central reference for all academic papers cited in this knowledge base.
 
-[Last updated: 2026-03-13 — added quant trading section: 26 new papers]
+[Last updated: 2026-03-13 — added quant trading (26 papers), game theory & social dynamics (22 papers)]
 
 ## Primary Research Papers
 
@@ -158,6 +158,32 @@ Complete citations with DOI links for papers directly analyzed in this repositor
 | **Vanguard Research (2024)** | Vanguard Research. The Rebalancing Edge: Optimizing Target-Date Fund Rebalancing Through Threshold-Based Strategies. *Vanguard Institutional*. | [corporate.vanguard.com](https://corporate.vanguard.com/content/dam/corp/research/pdf/the_rebalancing_edge_optimizing_target_date_fund_rebalancing_through_threshold_based_strategies.pdf) |
 | **Chiyachantana & Jain (2008)** | Chiyachantana CN, Jain PK. The Opportunity Cost of Inaction in Financial Markets: An Analysis of Institutional Decisions and Trades. *SSRN 1220582*. | [ssrn.com/abstract=1220582](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1220582) |
 | **Asness, Moskowitz & Pedersen (2013)** | Asness CS, Moskowitz TJ, Pedersen LH. Value and Momentum Everywhere. *Journal of Finance*, 68(3), 929–985. | [10.1111/jofi.12021](https://doi.org/10.1111/jofi.12021) |
+
+### Game Theory, Market Microstructure & Social Dynamics of Inaction
+
+| Citation | Full Reference | DOI / Source |
+|----------|----------------|-----|
+| **Kyle (1985)** | Kyle AS. Continuous Auctions and Insider Trading. *Econometrica*, 53(6), 1315–1335. | [10.2307/1913210](https://doi.org/10.2307/1913210) |
+| **Back (1992)** | Back K. Insider Trading in Continuous Time. *Review of Financial Studies*, 5(3), 387–409. | [10.1093/rfs/5.3.387](https://doi.org/10.1093/rfs/5.3.387) |
+| **Glosten & Milgrom (1985)** | Glosten LR, Milgrom PR. Bid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders. *Journal of Financial Economics*, 14(1), 71–100. | [10.1016/0304-405X(85)90044-3](https://doi.org/10.1016/0304-405X(85)90044-3) |
+| **Brunnermeier & Pedersen (2005)** | Brunnermeier MK, Pedersen LH. Predatory Trading. *Journal of Finance*, 60(4), 1825–1863. | [10.1111/j.1540-6261.2005.00781.x](https://doi.org/10.1111/j.1540-6261.2005.00781.x) |
+| **Budish, Cramton & Shim (2015)** | Budish E, Cramton P, Shim J. The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response. *Quarterly Journal of Economics*, 130(4), 1547–1621. | [10.1093/qje/qjv027](https://doi.org/10.1093/qje/qjv027) |
+| **Grossman & Stiglitz (1980)** | Grossman SJ, Stiglitz JE. On the Impossibility of Informationally Efficient Markets. *American Economic Review*, 70(3), 393–408. | — |
+| **Banerjee (1992)** | Banerjee AV. A Simple Model of Herd Behavior. *Quarterly Journal of Economics*, 107(3), 797–817. | [10.2307/2118364](https://doi.org/10.2307/2118364) |
+| **Bikhchandani, Hirshleifer & Welch (1992)** | Bikhchandani S, Hirshleifer D, Welch I. A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. *Journal of Political Economy*, 100(5), 992–1026. | [10.1086/261849](https://doi.org/10.1086/261849) |
+| **Morris & Shin (1998)** | Morris S, Shin HS. Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks. *American Economic Review*, 88(3), 587–597. | — |
+| **Scharfstein & Stein (1990)** | Scharfstein DS, Stein JC. Herd Behavior and Investment. *American Economic Review*, 80(3), 465–479. | — |
+| **Chevalier & Ellison (1999)** | Chevalier J, Ellison G. Career Concerns of Mutual Fund Managers. *Quarterly Journal of Economics*, 114(2), 389–432. | [10.1162/003355399556034](https://doi.org/10.1162/003355399556034) |
+| **Sias (2004)** | Sias RW. Institutional Herding. *Review of Financial Studies*, 17(1), 165–206. | [10.1093/rfs/hhg035](https://doi.org/10.1093/rfs/hhg035) |
+| **Milgrom & Weber (1982)** | Milgrom P, Weber RJ. A Theory of Auctions and Competitive Bidding. *Econometrica*, 50(5), 1089–1122. | [10.2307/1911865](https://doi.org/10.2307/1911865) |
+| **Gode & Sunder (1993)** | Gode DK, Sunder S. Allocative Efficiency of Markets with Zero-Intelligence Traders. *Journal of Political Economy*, 101(1), 119–137. | [10.1086/261868](https://doi.org/10.1086/261868) |
+| **Maynard Smith & Price (1973)** | Maynard Smith J, Price GR. The Logic of Animal Conflict. *Nature*, 246, 15–18. | [10.1038/246015a0](https://doi.org/10.1038/246015a0) |
+| **Friedman (1991)** | Friedman D. Evolutionary Games in Economics. *Econometrica*, 59(3), 637–666. | [10.2307/2938222](https://doi.org/10.2307/2938222) |
+| **Weber & Hsee (1998)** | Weber EU, Hsee CK. Cross-Cultural Differences in Risk Perception, but Cross-Cultural Similarities in Attitudes Towards Perceived Risk. *Management Science*, 44(9), 1205–1217. | [10.1287/mnsc.44.9.1205](https://doi.org/10.1287/mnsc.44.9.1205) |
+| **Guiso, Sapienza & Zingales (2008)** | Guiso L, Sapienza P, Zingales L. Trusting the Stock Market. *Journal of Finance*, 63(6), 2557–2600. | [10.1111/j.1540-6261.2008.01408.x](https://doi.org/10.1111/j.1540-6261.2008.01408.x) |
+| **Lazar et al. (2022)** | Lazar A et al. From Reddit to Wall Street: The Role of Committed Minorities in Financial Collective Action. *Royal Society Open Science*, 9(4). | [10.1098/rsos.211488](https://doi.org/10.1098/rsos.211488) |
+| **Hong, Kubik & Stein (2004)** | Hong H, Kubik JD, Stein JC. Social Interaction and Stock-Market Participation. *Journal of Finance*, 59(1), 137–163. | [10.1111/j.1540-6261.2004.00629.x](https://doi.org/10.1111/j.1540-6261.2004.00629.x) |
+| **Kahan (2013)** | Kahan DM. Ideology, Motivated Reasoning, and Cognitive Reflection. *Judgment and Decision Making*, 8(4), 407–424. | — |
 
 ## Foundational Theory Papers
 

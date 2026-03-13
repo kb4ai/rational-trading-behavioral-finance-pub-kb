@@ -117,6 +117,13 @@
    - Best for: Understanding WHY mental accounting exists mechanistically — not just what it is, but the computational, attentional, embodied, and cultural architecture that produces it
    - Source: Claude Sonnet 4.6 synthesis, 2026-02-27
 
+5d. **[game-theory-inaction-exploitability-literature.md](core-research/game-theory-inaction-exploitability-literature.md)**
+   - Focus: Game-theoretic analysis of how inaction creates exploitable patterns in multi-agent markets
+   - Papers covered: Kyle (1985), Back (1992), Glosten & Milgrom (1985), Brunnermeier & Pedersen (2005), Budish et al. (2015), Grossman & Stiglitz (1980), Banerjee (1992), BHW (1992), Morris & Shin (1998, 2003), Scharfstein & Stein (1990), Chevalier & Ellison (1999), Milgrom & Weber (1982), Gode & Sunder (1993), Maynard Smith & Price (1973), Friedman (1991)
+   - Key sections: 5 exploitation channels (Kyle's λ, predatory trading, HFT stale-quote picking, career herding, participation externalities), evolutionary game theory (replicator dynamics), mechanism design (nudges, auto-rebalancing)
+   - Best for: Understanding WHO profits from your inaction and HOW; formal game-theoretic models of surplus transfer from passive to active agents
+   - Source: Claude Sonnet 4.6 web research, 2026-03-13
+
 7. **[stoic-inaction-as-action-framework.md](core-research/stoic-inaction-as-action-framework.md)**
    - Focus: Stoic philosophy (prohairesis, apatheia, kathêkon), existentialist ontology (Sartre's bad faith), Eastern philosophy (wu wei), decision theory (EU, regret theory), and their unified application to trading inaction
    - Papers covered: Epictetus *Discourses*, Marcus Aurelius *Meditations*, Seneca *Letters*, Spranca et al. (1991), Loomes & Sugden (1982), Samuelson & Zeckhauser (1988), Bostrom & Ord (2006), Foot (1967), Thomson (1985), Buffett/Munger/Taleb on omission costs
@@ -166,6 +173,7 @@
 | Claude | Sonnet 4.6 | Cognitive science of inaction: 6-layer neural/attentional/computational mechanistic model; 26 papers including fMRI (Greene, Cushman, Coricelli, Nicolle), rational inattention (Sims, Huang), ostrich effect, CRT (Frederick), affordance competition (Cisek), metacognition (Fleming) | [cognitive-science-inaction-neural-attentional-mechanisms.md](core-research/cognitive-science-inaction-neural-attentional-mechanisms.md) |
 | Claude | Opus 4.6 | Symmetric action-inaction evaluator: N-dimensional decision framework, Kelly inaction pricing, real options, minimax regret | [symmetric-action-inaction-evaluator.md](debiasing-frameworks/symmetric-action-inaction-evaluator.md) |
 | Claude | Sonnet 4.6 | **Quant models of inaction cost**: Almgren-Chriss (2000) execution frontier, Perold (1988) implementation shortfall, Davis-Norman (1990) no-trade zone, Garleanu-Pedersen (2013) aim portfolio, alpha decay empirics (5.6% US / 9.9% EU annual cost), RL portfolio management (Jiang 2017), momentum (J&T 1993, TSMOM 2012), Kelly/Thorp, Renaissance, AQR, López de Prado | [quant-models-inaction-cost-systematic-trading.md](core-research/quant-models-inaction-cost-systematic-trading.md) |
+| Claude | Sonnet 4.6 | **Game theory of inaction exploitability**: Kyle (1985) λ extraction, Brunnermeier-Pedersen (2005) predatory trading, Budish et al. (2015) HFT arms race, Grossman-Stiglitz (1980) participation externalities, BHW (1992) information cascades, Scharfstein-Stein (1990) career herding, evolutionary game theory (Friedman 1991 replicator dynamics) | [game-theory-inaction-exploitability-literature.md](core-research/game-theory-inaction-exploitability-literature.md) |
 
 ## Research Artifacts Index
 
@@ -272,6 +280,7 @@
 | symmetric-action-inaction-evaluator.md | 2026-03-13 | Anthropic | Claude Opus 4.6 |
 | cognitive-science-inaction-neural-attentional-mechanisms.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
 | quant-models-inaction-cost-systematic-trading.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
+| game-theory-inaction-exploitability-literature.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
 
 ## Future Development
 
