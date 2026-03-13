@@ -76,6 +76,34 @@ Complete citations with DOI links for papers directly analyzed in this repositor
 | **Sicherman et al. (2016)** | Sicherman N, Loewenstein G, Seppi DJ, Utkus SP. Financial attention. *Review of Financial Studies*, 29(4), 863–897. | [10.1093/rfs/hhw012](https://doi.org/10.1093/rfs/hhw012) |
 | **Tykocinski & Pittman (1998)** | Tykocinski OE, Pittman TS. The consequences of doing nothing: Inaction inertia as avoidance of anticipated counterfactual regret. *Journal of Personality and Social Psychology*, 75(3), 607–616. | [10.1037/0022-3514.75.3.607](https://doi.org/10.1037/0022-3514.75.3.607) |
 
+### Decision Theory, Real Options & Optimal Stopping
+
+| Citation | Full Reference | DOI |
+|----------|----------------|-----|
+| **Loomes & Sugden (1982)** | Loomes G, Sugden R. Regret Theory: An Alternative Theory of Rational Choice under Uncertainty. *Economic Journal*, 92(368), 805–824. | — |
+| **Bostrom & Ord (2006)** | Bostrom N, Ord T. The Reversal Test: Eliminating Status Quo Bias in Applied Ethics. *Ethics*, 116(4), 656–679. | — |
+| **Merton (1971)** | Merton RC. Optimum Consumption and Portfolio Rules in a Continuous-Time Model. *Journal of Economic Theory*, 3(4), 373–413. | [10.1016/0022-0531(71)90038-X](https://doi.org/10.1016/0022-0531(71)90038-X) |
+| **Dixit & Pindyck (1994)** | Dixit AK, Pindyck RS. *Investment under Uncertainty*. Princeton University Press. | ISBN 978-0-691-03410-2 |
+| **McDonald & Siegel (1986)** | McDonald R, Siegel D. The Value of Waiting to Invest. *Quarterly Journal of Economics*, 101(4), 707–727. | [10.2307/1884175](https://doi.org/10.2307/1884175) |
+| **Cover (1991)** | Cover TM. Universal Portfolios. *Mathematical Finance*, 1(1), 1–29. | [10.1111/j.1467-9965.1991.tb00002.x](https://doi.org/10.1111/j.1467-9965.1991.tb00002.x) |
+| **Browne & Whitt (1996)** | Browne S, Whitt W. Portfolio Choice and the Bayesian Kelly Criterion. *Advances in Applied Probability*, 28(4), 1145–1176. | [10.2307/1428168](https://doi.org/10.2307/1428168) |
+| **Xidonas et al. (2017)** | Xidonas P, Mavrotas G, Hassapis C, Zopounidis C. Robust Multiobjective Portfolio Optimization: A Minimax Regret Approach. *European Journal of Operational Research*, 262(1), 299–305. | [10.1016/j.ejor.2017.03.041](https://doi.org/10.1016/j.ejor.2017.03.041) |
+| **Atkinson & Bourguignon (1982)** | Atkinson AB, Bourguignon F. The Comparison of Multi-Dimensioned Distributions of Economic Status. *Review of Economic Studies*, 49(2), 183–201. | [10.2307/2297269](https://doi.org/10.2307/2297269) |
+| **Jondeau & Rockinger (2006)** | Jondeau E, Rockinger M. Optimal Portfolio Allocation under Higher Moments. *European Financial Management*, 12(1), 29–55. | [10.1111/j.1354-7798.2006.00309.x](https://doi.org/10.1111/j.1354-7798.2006.00309.x) |
+| **Brinson, Hood & Beebower (1986)** | Brinson GP, Hood LR, Beebower GL. Determinants of Portfolio Performance. *Financial Analysts Journal*, 42(4), 39–44. | — |
+| **Kahneman & Miller (1986)** | Kahneman D, Miller DT. Norm Theory: Comparing Reality to Its Alternatives. *Psychological Review*, 93(2), 136–153. | — |
+
+### Stoic & Philosophical Sources
+
+| Citation | Full Reference | DOI |
+|----------|----------------|-----|
+| **Epictetus (c. 108 CE)** | Epictetus. *Discourses*. Trans. Robin Hard (Oxford, 2014). Key: 1.17.21, 2.5.1, 3.2.1–2. | — |
+| **Marcus Aurelius (c. 170 CE)** | Marcus Aurelius. *Meditations*. Trans. Gregory Hays (Modern Library, 2002). Key: 8.32, 9.5. | — |
+| **Seneca (c. 65 CE)** | Seneca. *Epistulae Morales ad Lucilium*. Letters 1, 55, 78. | — |
+| **Pigliucci (2017)** | Pigliucci M. *How to Be a Stoic: Using Ancient Philosophy to Live a Modern Life*. Basic Books. | ISBN 978-0465097951 |
+| **Foot (1967)** | Foot P. The Problem of Abortion and the Doctrine of the Double Effect. *Oxford Review*, 5, 5–15. | — |
+| **Thomson (1985)** | Thomson JJ. The Trolley Problem. *Yale Law Journal*, 94(6), 1395–1415. | — |
+
 ### Cognitive Science Parallels
 
 | Citation | Full Reference | DOI |
@@ -243,6 +271,27 @@ Where each primary paper is discussed:
 | Graeber (2018) | `ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md` |
 | Illich (1981) | `ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md` |
 | Csikszentmihalyi (1990) | `ramblings/2026-02-27--artificial-partitioning-work-leisure-watts-krishnamurti.md` |
+| Loomes & Sugden (1982) | `core-research/stoic-inaction-as-action-framework.md`, `debiasing-frameworks/symmetric-action-inaction-evaluator.md` |
+| Bostrom & Ord (2006) | `core-research/stoic-inaction-as-action-framework.md`, `debiasing-frameworks/symmetric-action-inaction-evaluator.md` |
+| Merton (1971) | `debiasing-frameworks/symmetric-action-inaction-evaluator.md`, `ramblings/2026-03-13--real-options-optimal-stopping-strategic-nonaction.md` |
+| Dixit & Pindyck (1994) | `debiasing-frameworks/symmetric-action-inaction-evaluator.md`, `ramblings/2026-03-13--real-options-optimal-stopping-strategic-nonaction.md` |
+| Cover (1991) | `debiasing-frameworks/symmetric-action-inaction-evaluator.md` |
+| Browne & Whitt (1996) | `debiasing-frameworks/symmetric-action-inaction-evaluator.md` |
+| Xidonas et al. (2017) | `debiasing-frameworks/symmetric-action-inaction-evaluator.md` |
+| Frederick et al. (2009) | `core-research/opportunity-cost-neglect-in-trading.md` |
+| Spiller (2011) | `core-research/opportunity-cost-neglect-in-trading.md` |
+| Spranca et al. (1991) | `core-research/stoic-inaction-as-action-framework.md`, `core-research/omission-status-quo-inaction-inertia-trading.md`, `core-research/opportunity-cost-neglect-in-trading.md` |
+| Ritov & Baron (1990, 1992) | `core-research/stoic-inaction-as-action-framework.md`, `core-research/omission-status-quo-inaction-inertia-trading.md`, `core-research/opportunity-cost-neglect-in-trading.md` |
+| Bar-Eli et al. (2007) | `core-research/opportunity-cost-neglect-in-trading.md` |
+| Tykocinski & Pittman (1998, 2001) | `core-research/omission-status-quo-inaction-inertia-trading.md`, `core-research/opportunity-cost-neglect-in-trading.md` |
+| Tykocinski (2004) | `core-research/omission-status-quo-inaction-inertia-trading.md`, `core-research/opportunity-cost-neglect-in-trading.md` |
+| Sicherman et al. (2016) | `core-research/opportunity-cost-neglect-in-trading.md` |
+| Agnew et al. (2003) | `core-research/opportunity-cost-neglect-in-trading.md`, `core-research/omission-status-quo-inaction-inertia-trading.md` |
+| Epictetus | `core-research/stoic-inaction-as-action-framework.md` |
+| Marcus Aurelius | `core-research/stoic-inaction-as-action-framework.md` |
+| Seneca | `core-research/stoic-inaction-as-action-framework.md` |
+| Foot (1967) | `core-research/stoic-inaction-as-action-framework.md` |
+| Pigliucci (2017) | `core-research/stoic-inaction-as-action-framework.md` |
 | Shafir, Diamond & Tversky (1997) | `core-research/multi-denomination-portfolio-valuation.md`, `debiasing-frameworks/denomination-invariant-evaluation.md`, `research-artifacts/denomination-effects-literature-review.md` |
 | Raghubir & Srivastava (2002) | `core-research/multi-denomination-portfolio-valuation.md`, `debiasing-frameworks/denomination-invariant-evaluation.md`, `research-artifacts/denomination-effects-literature-review.md` |
 | Fehr & Tyran (2001) | `debiasing-frameworks/denomination-invariant-evaluation.md`, `research-artifacts/denomination-effects-literature-review.md` |

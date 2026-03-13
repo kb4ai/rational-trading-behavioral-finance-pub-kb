@@ -22,6 +22,8 @@
 
 7. **[Single-Denominator Bias](https://en.wikipedia.org/wiki/Money_illusion)** - Evaluating portfolio in one unit of account (USD, BTC, gold) when the denomination choice is itself a frame that distorts perception. 60-80% evaluate nominally (Shafir et al., 1997); 15-30% spending errors from face value anchoring (Raghubir & Srivastava, 2002). A portfolio +15% in USD but -8% in BTC is the *same state* with two contradictory narratives. The denomination frame can flip the disposition effect's direction. [Core framework](core-research/multi-denomination-portfolio-valuation.md) | [Debiasing protocol](debiasing-frameworks/denomination-invariant-evaluation.md) | [Python implementation](debiasing-frameworks/examples/multi-denomination-tracker.py)
 
+8. **[Omission Bias](https://en.wikipedia.org/wiki/Omission_bias) / [Opportunity Cost Neglect](https://doi.org/10.1086/599764)** - Treating "hold" / "do nothing" as a costless default when it carries quantifiable opportunity cost. 72% prefer harmful inaction over equivalent harmful action (Ritov & Baron, 1992). Forgone alternatives are systematically underweighted because they're implicit, not described (Frederick et al., 2009: 20pp purchase-rate shift when OC made explicit, d=0.45–0.85). Both overtrading (−6.5%/yr, Barber & Odean 2000) and under-trading ($170k/career missed 401k match) are OCN — the neglected OC differs. Inaction inertia compounds: missed entry at $50 → psychological barrier at $80 → misses $80→$120 run (Tykocinski, 2004). **Stoic philosophy** (Epictetus's prohairesis) treats every non-action as an exercise of rational will requiring equal scrutiny; Sartre: "not deciding" is bad faith concealing continuous choice. [OCN analysis](core-research/opportunity-cost-neglect-in-trading.md) | [Omission/inaction empirics](core-research/omission-status-quo-inaction-inertia-trading.md) | [Stoic framework](core-research/stoic-inaction-as-action-framework.md) | [Symmetric evaluator](debiasing-frameworks/symmetric-action-inaction-evaluator.md)
+
 **The Debiasing Solutions:**
 
 * **Kelly Criterion** - Mathematically optimal position sizing: f* = (bp - q) / b. Use Half-Kelly for reduced volatility.
@@ -30,6 +32,7 @@
 * **Pre-commitment Devices** - Automatic stop-losses, take-profit orders, written decision trees.
 * **Bayesian Updating** - Formal structure for incorporating new information without overweighting recent data.
 * **Denomination-Invariant Evaluation** - Evaluate portfolio value simultaneously in N denominations (USD, BTC, gold, CPI). The min-growth metric G(t₀,t₁) = min_d{V_d(t₁)/V_d(t₀)} mechanically overrides subjective denomination preference. If G > 1, growth is genuine across all frames. [Framework](debiasing-frameworks/denomination-invariant-evaluation.md)
+* **Symmetric Action-Inaction Evaluator** - Treats "hold" as a first-class action with its own cost function: C(hold) = opportunity_cost + drift_from_optimal + option_value_decay. The Reversal Test (Bostrom & Ord 2006): "Would I buy this position today?" If No → holding is status quo bias. Integrates Kelly growth-rate accounting for inaction, real options theory for rational waiting, and minimax regret across N dimensions. [Framework](debiasing-frameworks/symmetric-action-inaction-evaluator.md)
 
 **The Neurodivergent Advantage:**
 
@@ -91,6 +94,10 @@ Behavioral biases function as wealth transfer mechanisms from neurotypical retai
 * "I spent all my money" - framing asset transformation (cash → goods) as destruction
 * "I'm up in USD!" - denomination bias hiding BTC/gold-denominated losses
 * "My BTC stack is growing" - single-denominator view masking purchasing power decline
+* "I haven't decided to sell yet" - Sartrean bad faith: concealing continuous hold-decision as non-decision
+* "I missed the entry at $X, can't buy now" - inaction inertia: prior miss blocking positive-EV action
+* "I'm just holding, not doing anything" - omission bias: treating inaction as costless default
+* "I'll think about it later" - opportunity cost neglect: implicit alternatives invisible
 
 ## Navigation
 
@@ -115,10 +122,12 @@ Behavioral biases function as wealth transfer mechanisms from neurotypical retai
 | "My friend made 10x on crypto" | [Anecdotal Evidence](https://yourlogicalfallacyis.com/anecdotal) | Survivorship-biased samples |
 | "Markets fell because of [news]" | [Post Hoc](https://yourlogicalfallacyis.com/false-cause) | Correlation ≠ causation |
 | "Either HODL or you're weak" | [False Dilemma](https://yourlogicalfallacyis.com/black-or-white) | Excluding rational middle ground |
+| "I'm not doing anything, just holding" | [Omission Bias](https://en.wikipedia.org/wiki/Omission_bias) | Inaction ≠ neutral; holding is active choice |
+| "I missed the dip, too late now" | [Inaction Inertia](https://doi.org/10.1037/0022-3514.75.3.607) | Prior miss blocking current positive-EV action |
 
 ## Status
 
-**WIP** — Core research, philosophical foundations, and denomination-invariant evaluation framework complete. Market microstructure analysis pending.
+**WIP** — Core research, philosophical foundations, denomination-invariant evaluation, and symmetric action-inaction evaluation frameworks complete. Market microstructure analysis pending.
 
 ---
 

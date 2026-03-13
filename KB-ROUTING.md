@@ -30,6 +30,8 @@
 | Hypothetical Cash Reframe | Converts hold/sell (omission framing) to buy/not-buy (commission framing); eliminates act-omit asymmetry; restores WTA/WTP ratio → 1.0 | [**Omission/Inaction Framework**](core-research/omission-status-quo-inaction-inertia-trading.md#71-the-hypothetical-cash-reframe-highest-empirical-support) | KKT 1991 |
 | Inaction Justification Log | Forces documented active commission decision for each held position; symmetric dual-path checklist | [**Protocol**](core-research/omission-status-quo-inaction-inertia-trading.md#72-forced-periodic-review-with-inaction-justification-requirement) | |
 | Pre-Mortem for Non-Action | "Imagine I did NOT act; portfolio -15%: what mechanism?" — prospective hindsight improves outcome identification 30% (Klein 1998) | [**Protocol**](core-research/omission-status-quo-inaction-inertia-trading.md#73-pre-mortem-for-non-action-decisions) | |
+| Symmetric Action-Inaction Evaluator | Treats hold as first-class action with cost C(hold) = OC + drift + option_decay; N-dimensional evaluation; Reversal Test; minimax regret; Kelly inaction pricing | [**Framework**](debiasing-frameworks/symmetric-action-inaction-evaluator.md) | Bostrom & Ord 2006, Dixit & Pindyck 1994, Cover 1991 |
+| Reversal Test | "If I didn't own this, would I buy it today?" No → status quo bias. "If I'd already acted, would I reverse?" No → omission bias. | [**Framework**](debiasing-frameworks/symmetric-action-inaction-evaluator.md#3-the-reversal-test-bostrom--ord-2006) | Bostrom & Ord 2006 |
 
 ### Neurodivergent Advantage Evidence
 
@@ -108,6 +110,13 @@
    - Best for: Understanding WHY mental accounting exists mechanistically — not just what it is, but the computational, attentional, embodied, and cultural architecture that produces it
    - Source: Claude Sonnet 4.6 synthesis, 2026-02-27
 
+7. **[stoic-inaction-as-action-framework.md](core-research/stoic-inaction-as-action-framework.md)**
+   - Focus: Stoic philosophy (prohairesis, apatheia, kathêkon), existentialist ontology (Sartre's bad faith), Eastern philosophy (wu wei), decision theory (EU, regret theory), and their unified application to trading inaction
+   - Papers covered: Epictetus *Discourses*, Marcus Aurelius *Meditations*, Seneca *Letters*, Spranca et al. (1991), Loomes & Sugden (1982), Samuelson & Zeckhauser (1988), Bostrom & Ord (2006), Foot (1967), Thomson (1985), Buffett/Munger/Taleb on omission costs
+   - Key sections: Prohairesis symmetry (hormê/aphormê), Sartre's bad faith as holding-without-deciding, Reversal Test as trading heuristic, three failure modes of inaction, Stoic decision protocol
+   - Best for: Philosophical foundation for why "hold" is an active decision requiring full rational scrutiny
+   - Source: Claude Sonnet 4.6 web research, 2026-03-13
+
 ### Philosophical Foundations (Ramblings)
 
 6. **[spending-as-ontological-error-semiotics-language.md](ramblings/2026-02-27--spending-as-ontological-error-semiotics-language.md)**
@@ -125,6 +134,11 @@
    - Key coverage: Watts (Taoist integration), Krishnamurti (thought-as-fragmentation), Csikszentmihalyi (flow), Heidegger (das Man), Illich (shadow work), Graeber (bullshit jobs)
    - Best for: Seeing the savings/spending partition as one instance of a universal cognitive partitioning error
 
+9. **[real-options-optimal-stopping-strategic-nonaction.md](ramblings/2026-03-13--real-options-optimal-stopping-strategic-nonaction.md)**
+   - Focus: Mathematical framework distinguishing rational strategic non-action (real option preservation) from pathological inaction (omission bias)
+   - Key coverage: Dixit & Pindyck investment triggers, optimal stopping / secretary problem, Taleb's convexity test for inaction quality, Kelly criterion as inaction pricer, decision tree diagnostic
+   - Best for: Understanding WHEN inaction is rational (option value > immediate EV) vs irrational (omission bias despite positive EV)
+
 ---
 
 ## Research Sources by AI Provider
@@ -141,6 +155,8 @@
 | Claude | Sonnet 4.6 | Mental accounting grounded in 7 cognitive science frameworks | [mental-accounting-cognitive-science-parallels.md](core-research/mental-accounting-cognitive-science-parallels.md) |
 | Claude | Sonnet 4.6 | Omission bias, status quo bias, inaction inertia: empirical synthesis + debiasing protocols | [omission-status-quo-inaction-inertia-trading.md](core-research/omission-status-quo-inaction-inertia-trading.md) |
 | Claude | Sonnet 4.6 | Opportunity cost neglect: full academic synthesis, 16 papers, action/omission asymmetry, quantified costs, debiasing protocols | [opportunity-cost-neglect-in-trading.md](core-research/opportunity-cost-neglect-in-trading.md) |
+| Claude | Sonnet 4.6 | Stoic inaction-as-action: prohairesis, Sartre bad faith, reversal test, Buffett/Munger/Taleb, philosophical-decision-theory synthesis | [stoic-inaction-as-action-framework.md](core-research/stoic-inaction-as-action-framework.md) |
+| Claude | Opus 4.6 | Symmetric action-inaction evaluator: N-dimensional decision framework, Kelly inaction pricing, real options, minimax regret | [symmetric-action-inaction-evaluator.md](debiasing-frameworks/symmetric-action-inaction-evaluator.md) |
 
 ## Research Artifacts Index
 
@@ -243,6 +259,8 @@
 | mental-accounting-cognitive-science-parallels.md | 2026-02-27 | Anthropic | Claude Sonnet 4.6 |
 | omission-status-quo-inaction-inertia-trading.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
 | opportunity-cost-neglect-in-trading.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
+| stoic-inaction-as-action-framework.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
+| symmetric-action-inaction-evaluator.md | 2026-03-13 | Anthropic | Claude Opus 4.6 |
 
 ## Future Development
 
