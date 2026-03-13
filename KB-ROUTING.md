@@ -96,6 +96,13 @@
    - Best for: Understanding that both overtrading and under-trading are OCN; Kelly-based cost accounting for inaction; intervention protocols for making foregone alternatives explicit
    - Source: Claude Sonnet 4.6 web research, 2026-03-13
 
+5c. **[cognitive-science-inaction-neural-attentional-mechanisms.md](core-research/cognitive-science-inaction-neural-attentional-mechanisms.md)**
+   - Focus: Neural, attentional, and computational mechanisms underlying action/inaction asymmetry — WHY the brain treats holds differently from acts at the mechanistic level
+   - Papers covered (26 total): Greene et al. 2001 (fMRI moral judgment, Science), Cushman et al. 2011 (frontoparietal override, SCAN), Camille et al. 2004 (OFC regret, Science), Coricelli et al. 2005 (regret-aversion learning, Nature Neuroscience), Nicolle et al. 2011 (regret-induced SQB, J. Neuroscience), Knutson et al. 2007 (pain of paying, Neuron), Sims 2003 (rational inattention, JME), Huang & Liu 2007 (rational inattention + portfolio, JF), Karlsson et al. 2009 (ostrich effect, JRU), Sicherman et al. 2016 (financial attention, RFS), Simons & Chabris 1999 (inattentional blindness, Perception), Frederick 2005 (CRT, JEP), Cushman et al. 2006 (dual-process + action principles, Psych. Science), Laibson 1997 (quasi-hyperbolic discounting, QJE), Gilovich & Medvec 1994 (temporal regret reversal, JPSP), Tykocinski & Pittman 1998 (inaction inertia, JPSP), Ariely & Wertenbroch 2002 (precommitment, Psych. Science), Cisek & Kalaska 2010 (affordance competition, Ann. Rev. Neuro.), Langer 1975 (illusion of control, JPSP), Fenton-O'Creevy et al. 2003 (trading on illusions, JOOP), Fleming et al. 2012 (metacognition, Phil. Trans. R. Soc. B), Barber & Odean 2000, Samuelson & Zeckhauser 1988, Spranca et al. 1991, Yeung et al. 2022 (meta-analysis, g=0.45), Zeelenberg 1999
+   - Key sections: 6-layer "Inaction Privilege Stack" (neural → attentional → dual-process → temporal → embodied → metacognitive); quantitative effect size table; debiasing implications per layer; integrated mechanistic model
+   - Best for: Mechanistic grounding for *why* inaction is cognitively privileged; identifying which layer a specific bias is operating at; designing interventions matched to the cognitive substrate
+   - Source: Claude Sonnet 4.6 web research, 2026-03-13
+
 5. **[omission-status-quo-inaction-inertia-trading.md](core-research/omission-status-quo-inaction-inertia-trading.md)**
    - Focus: Empirical synthesis of omission bias, status quo bias, and inaction inertia in trading/investment contexts
    - Papers covered: Spranca et al. (1991), Ritov & Baron (1990, 1992), Samuelson & Zeckhauser (1988), KKT (1991), Madrian & Shea (2001), Choi et al. (2004), Tykocinski & Pittman (1998, 2001), Tykocinski (2004), Benartzi & Thaler (1995), French & Poterba (1991), Barber & Odean (2000)
@@ -156,6 +163,7 @@
 | Claude | Sonnet 4.6 | Omission bias, status quo bias, inaction inertia: empirical synthesis + debiasing protocols | [omission-status-quo-inaction-inertia-trading.md](core-research/omission-status-quo-inaction-inertia-trading.md) |
 | Claude | Sonnet 4.6 | Opportunity cost neglect: full academic synthesis, 16 papers, action/omission asymmetry, quantified costs, debiasing protocols | [opportunity-cost-neglect-in-trading.md](core-research/opportunity-cost-neglect-in-trading.md) |
 | Claude | Sonnet 4.6 | Stoic inaction-as-action: prohairesis, Sartre bad faith, reversal test, Buffett/Munger/Taleb, philosophical-decision-theory synthesis | [stoic-inaction-as-action-framework.md](core-research/stoic-inaction-as-action-framework.md) |
+| Claude | Sonnet 4.6 | Cognitive science of inaction: 6-layer neural/attentional/computational mechanistic model; 26 papers including fMRI (Greene, Cushman, Coricelli, Nicolle), rational inattention (Sims, Huang), ostrich effect, CRT (Frederick), affordance competition (Cisek), metacognition (Fleming) | [cognitive-science-inaction-neural-attentional-mechanisms.md](core-research/cognitive-science-inaction-neural-attentional-mechanisms.md) |
 | Claude | Opus 4.6 | Symmetric action-inaction evaluator: N-dimensional decision framework, Kelly inaction pricing, real options, minimax regret | [symmetric-action-inaction-evaluator.md](debiasing-frameworks/symmetric-action-inaction-evaluator.md) |
 
 ## Research Artifacts Index
@@ -261,6 +269,7 @@
 | opportunity-cost-neglect-in-trading.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
 | stoic-inaction-as-action-framework.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
 | symmetric-action-inaction-evaluator.md | 2026-03-13 | Anthropic | Claude Opus 4.6 |
+| cognitive-science-inaction-neural-attentional-mechanisms.md | 2026-03-13 | Anthropic | Claude Sonnet 4.6 |
 
 ## Future Development
 
